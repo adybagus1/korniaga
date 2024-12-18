@@ -6,7 +6,6 @@
     <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxabnsnfns00000000001" font="Open Sans" controllayout="npxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -14,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Media Pembelajaran Korespondensi Niaga BAP" />
+              <option name="title_text" value="Media Pembelajaran Korespondensi Niaga Edu" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -77,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -197,29 +196,6 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="npxabnsnfns00000000001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1220,7 +1196,9 @@
             <slidelink slideid="_player.5hhy3Pkpc1q.5Uj0N7Gcf6D" displaytext="Dashboard FAKE" expand="false" type="slide" />
             <slidelink slideid="_player.5hhy3Pkpc1q.6Ddv8c82Gdj" displaytext="Developer" expand="false" type="slide" />
             <slidelink slideid="_player.5hhy3Pkpc1q.6b7dUvCC9Ae" displaytext="Petunjuk Penggunaan" expand="false" type="slide" />
+            <slidelink slideid="_player.5hhy3Pkpc1q.6fP8HNprIVe" displaytext="Petunjuk Penggunaan awal" expand="false" type="slide" />
             <slidelink slideid="_player.5hhy3Pkpc1q.69kRmbN7jYy" displaytext="Close confirmation" expand="false" type="slide" />
+            <slidelink slideid="_player.5hhy3Pkpc1q.5bnjmOgXlJt" displaytext="thanks" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.650klpgECjV" displaytext="Materi" expand="true" type="slide">
@@ -1232,7 +1210,13 @@
             <slidelink slideid="_player.650klpgECjV.5kyGzXkMyck" displaytext="Prosedur umum" expand="false" type="slide" />
             <slidelink slideid="_player.650klpgECjV.6ls1niFILKj" displaytext="Fungsi" expand="false" type="slide" />
             <slidelink slideid="_player.650klpgECjV.6k4FHRhQgwm" displaytext="Fungsi 2" expand="false" type="slide" />
-            <slidelink slideid="_player.650klpgECjV.5jS184E0cCo" displaytext="Jenis" expand="false" type="slide" />
+            <slidelink slideid="_player.650klpgECjV.5jS184E0cCo" displaytext="Jenis Base" expand="false" type="slide" />
+            <slidelink slideid="_player.650klpgECjV.69pfRBxudWm" displaytext="Jenis Base 2" expand="false" type="slide" />
+            <slidelink slideid="_player.650klpgECjV.6llSCbhpthB" displaytext="Surat Penolakan Pesanan" expand="false" type="slide" />
+            <slidelink slideid="_player.650klpgECjV.6g7RS1BLChU" displaytext="Surat Pengiriman Pesanan" expand="false" type="slide" />
+            <slidelink slideid="_player.650klpgECjV.6dsSIagu1Gu" displaytext="Surat Klaim/Pengaduan" expand="false" type="slide" />
+            <slidelink slideid="_player.650klpgECjV.5qUnNET3Iym" displaytext="Surat Pengiriman Pembayaran" expand="false" type="slide" />
+            <slidelink slideid="_player.650klpgECjV.5n2e3gpaxEo" displaytext="Surat Penagihan " expand="false" type="slide" />
             <slidelink slideid="_player.650klpgECjV.6WN4XY0wRII" displaytext="Surat Perkenalan" expand="false" type="slide" />
             <slidelink slideid="_player.650klpgECjV.67vpCDEcq32" displaytext="Surat Konfirmasi Pesanan" expand="false" type="slide" />
             <slidelink slideid="_player.650klpgECjV.5pjNh8wN8pw" displaytext="Surat Pesanan" expand="false" type="slide" />

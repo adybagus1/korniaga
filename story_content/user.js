@@ -2,2783 +2,3605 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6T1hgvmsvQr":
+      case "5yBKtJ4HjZ7":
         Script1();
         break;
-      case "5tx4jedzKSJ":
+      case "60fpCCDK0xQ":
         Script2();
         break;
-      case "6CvFVu9mdmz":
+      case "5sifp9gBFFB":
         Script3();
         break;
-      case "6at8qb9t5vf":
+      case "6nVTxASzzAs":
         Script4();
         break;
-      case "6QSpIKFTcwK":
+      case "6rNpKa8mgz5":
         Script5();
         break;
-      case "6WdrhaWcO1O":
+      case "6YuJKgq0QXy":
         Script6();
         break;
-      case "644bDTPeusZ":
+      case "6fHse73FlpP":
         Script7();
         break;
-      case "6p2qowG8A0Y":
+      case "6RgE1XyEWwu":
         Script8();
         break;
-      case "5zL0GnOAJye":
+      case "5rosnzc0W8r":
         Script9();
         break;
-      case "6ERDMPOZzEL":
+      case "6lHx96Hi8LG":
         Script10();
         break;
-      case "6nNx4o3SJt2":
+      case "66WZoXxbW6T":
         Script11();
         break;
-      case "5gfmDCTSXCK":
+      case "6Sr1zlMgjpx":
         Script12();
         break;
-      case "6hp0DqlUBRZ":
+      case "6LBEJjrPkL5":
         Script13();
         break;
-      case "5yUy2KKRgRJ":
+      case "6YFwJ7tGzmy":
         Script14();
         break;
-      case "6YiD1bRNakO":
+      case "60BIszewaXZ":
         Script15();
         break;
-      case "6QKsIVFSPz4":
+      case "6WZfFuwIxPp":
         Script16();
         break;
-      case "5Xhv6tHPtWB":
+      case "64GuKrPrhy1":
         Script17();
         break;
-      case "5kXnD8Wt8cI":
+      case "6biKHgdMQHV":
         Script18();
         break;
-      case "6ZDoWHJRbGu":
+      case "6FIAyzkkXzA":
         Script19();
         break;
-      case "6aCfE6Vc7mo":
+      case "6QIe2kfgWef":
         Script20();
         break;
-      case "5x2VzvVVdL8":
+      case "6EdUZ5r82Ep":
         Script21();
         break;
-      case "6WqpLBGmBd8":
+      case "6JrZWmXW789":
         Script22();
         break;
-      case "5j4As5hkfv3":
+      case "5deusbEM5Ke":
         Script23();
         break;
-      case "5bjExTR0BZD":
+      case "5x3y624KMPu":
         Script24();
         break;
-      case "66h9EJv005v":
+      case "6Z8RQbnOKbV":
         Script25();
         break;
-      case "6KUKGKWppXE":
+      case "6WhPxueMz3U":
         Script26();
         break;
-      case "6UezQj8TDmv":
+      case "5rDjvj6mdQq":
         Script27();
         break;
-      case "5pMnYAu8mV8":
+      case "5cs3jYzqGIg":
         Script28();
         break;
-      case "6LyWmHkQy4e":
+      case "5m187o4jBHV":
         Script29();
         break;
-      case "69ywYqhx8Kl":
+      case "6jYQNg6HbXK":
         Script30();
         break;
-      case "6UMQyxEWprE":
+      case "5a6M6zPBGUf":
         Script31();
         break;
-      case "5n8nnqYlMVG":
+      case "6mznJXbkpL8":
         Script32();
         break;
-      case "6pokXOGDznD":
+      case "5i6MrFcltY2":
         Script33();
         break;
-      case "5pt5nkb0xCq":
+      case "6c8LGqIA6yu":
         Script34();
         break;
-      case "5fGrYYtv69a":
+      case "6lxva7WRkIo":
         Script35();
         break;
-      case "6rhfCr676HV":
+      case "687wMuKcnyL":
         Script36();
         break;
-      case "63wLlVYhkap":
+      case "6pXN7f2MLkh":
         Script37();
         break;
-      case "66m44PrGOcX":
+      case "5z6IQALbhdP":
         Script38();
         break;
-      case "6aFxvJpRxBK":
+      case "5l1Tldil6lM":
         Script39();
         break;
-      case "5jjeyJe7Egh":
+      case "6MZ8Mm9fJPJ":
         Script40();
         break;
-      case "5yGHqTEjowb":
+      case "5d1UuI3GEuP":
         Script41();
         break;
-      case "6CiBW9d3QB4":
+      case "6NY56soqkGC":
         Script42();
         break;
-      case "6W5jZACLo1U":
+      case "6eel3LQbnPd":
         Script43();
         break;
-      case "69zkydu77m3":
+      case "6ZsrhyhEUs6":
         Script44();
         break;
-      case "5mtcgor0kmv":
+      case "6Cq01BA8dbY":
         Script45();
         break;
-      case "6EJrkUqAIXk":
+      case "5VjT4rvHQNm":
         Script46();
         break;
-      case "5cXzzAcJTRQ":
+      case "5bKKgYbEpHp":
         Script47();
         break;
-      case "6UqPMNXmpCj":
+      case "5iYagKUn06f":
         Script48();
         break;
-      case "6NJXFW9Bkv8":
+      case "6kxo0OXN4yh":
         Script49();
         break;
-      case "5zafnu5NuDK":
+      case "5eskqYaujSK":
         Script50();
         break;
-      case "607tROeRKSz":
+      case "6jzX2hPKyux":
         Script51();
         break;
-      case "6KhWzvQOr7j":
+      case "5r5MQPSuWL3":
         Script52();
         break;
-      case "6i7zD4NCMyB":
+      case "6DrP5LMEShv":
         Script53();
         break;
-      case "6InxOWDG7x6":
+      case "6iLuDf5qZw2":
         Script54();
         break;
-      case "5ydzHgeCzPy":
+      case "6flS65Bny5g":
         Script55();
         break;
-      case "5ojpvEQXxsu":
+      case "6LjiKnqVNfR":
         Script56();
         break;
-      case "6LlWnq0bM08":
+      case "6lLmcwL0n9b":
         Script57();
         break;
-      case "6SpeyCRmxCE":
+      case "60bvu4qoLjH":
         Script58();
         break;
-      case "6GuJ48FtQBC":
+      case "6Djtk4PgrGb":
         Script59();
         break;
-      case "6DjG1DG3nBs":
+      case "6lqo37fM2sS":
         Script60();
         break;
-      case "5zapNFlBhPo":
+      case "6eCqS4nE4Gg":
         Script61();
         break;
-      case "6Geaj4od0wI":
+      case "6kLxxPzfz5L":
         Script62();
         break;
-      case "5mJfsUTUWG5":
+      case "5q8pqVMw0Rh":
         Script63();
         break;
-      case "5mrxdIW0u8k":
+      case "5nvrjO75zV9":
         Script64();
         break;
-      case "69l7ggQRmnD":
+      case "6NUbe3xkRT6":
         Script65();
         break;
-      case "5k9RsezYz5Q":
+      case "5xHYzuzfemX":
         Script66();
         break;
-      case "65WSXfe1bjG":
+      case "60fySCTjId4":
         Script67();
         break;
-      case "5yuRUnyCClg":
+      case "5iKXr9edsIw":
         Script68();
         break;
-      case "6rRH0CmqRUN":
+      case "5XY9ulWf7LI":
         Script69();
         break;
-      case "6IdbYSTSnxZ":
+      case "6n8rDzKwHKD":
         Script70();
         break;
-      case "5lMwSka7DrQ":
+      case "66mZFMRqUh7":
         Script71();
         break;
-      case "6lXwKPKeINl":
+      case "6nvU4r5tBjx":
         Script72();
         break;
-      case "61usRZlUjRd":
+      case "5un4rdcpuyp":
         Script73();
         break;
-      case "68uTWf1XCxn":
+      case "6XsaY3cuLbv":
         Script74();
         break;
-      case "5rJgKp5xNgb":
+      case "6IFyAH7QJH7":
         Script75();
         break;
-      case "6fAxyMKOiZe":
+      case "5jqWaymICFU":
         Script76();
         break;
-      case "64jBxZ56h5X":
+      case "6ClAwdZwKYo":
         Script77();
         break;
-      case "5olzszf2QLh":
+      case "6FdMcWPM49J":
         Script78();
         break;
-      case "6RgHZg12cWq":
+      case "6SdKLaTwTxB":
         Script79();
         break;
-      case "5WZ2x66UI7X":
+      case "66ev6uCFnqJ":
         Script80();
         break;
-      case "6r6OCeFZw5G":
+      case "6RFLzqxhtWA":
         Script81();
         break;
-      case "6ZoIJRKbZNl":
+      case "5osVFOARHNF":
         Script82();
         break;
-      case "5vpeBYuyS2m":
+      case "5j4MNvLDAoz":
         Script83();
         break;
-      case "68QtgpDMgpY":
+      case "5kEve7UJl97":
         Script84();
         break;
-      case "5b9ytwAmvyG":
+      case "6FgaMpPrtPh":
         Script85();
         break;
-      case "5fcNmVCfiC9":
+      case "6VLtW2tXUe2":
         Script86();
         break;
-      case "6m5JZeftWvf":
+      case "6MpPVsT6aFO":
         Script87();
         break;
-      case "6HIUPjGgxh6":
+      case "5zoJBhzXuu0":
         Script88();
         break;
-      case "5ZDo9GtBmTb":
+      case "6OFzx9UzKqY":
         Script89();
         break;
-      case "6rbpMxFoTOU":
+      case "6DPGwUo3hV1":
         Script90();
         break;
-      case "6TKThwrvcLV":
+      case "6HVe5jyQF54":
         Script91();
         break;
-      case "6XyV3rBN62p":
+      case "5fUUvKDXEEy":
         Script92();
         break;
-      case "6aeyH9mst6f":
+      case "6ZNxKdzfmcE":
         Script93();
         break;
-      case "6l6Tij5ohYd":
+      case "6e7geInmnJO":
         Script94();
         break;
-      case "6k4IvD4Y355":
+      case "6Knm0xfOt3d":
         Script95();
         break;
-      case "5vNs0yUZBbf":
+      case "6UZluYLuiUr":
         Script96();
         break;
-      case "5VZQSwKsYkH":
+      case "6RFH6Gl1XWY":
         Script97();
         break;
-      case "6FLsJAN0KAB":
+      case "6WfKhb4CKjI":
         Script98();
         break;
-      case "5fbwf59aW0J":
+      case "5bjtbUXePx4":
         Script99();
         break;
-      case "6ahUIB30GKD":
+      case "5zOcsVXYI3q":
         Script100();
         break;
-      case "6Q0C84D8qMs":
+      case "6l8QDYRX1P5":
         Script101();
         break;
-      case "5Y4WLOPUrjH":
+      case "6PEclf4WZSE":
         Script102();
         break;
-      case "6mEwzTAGrcW":
+      case "5Wka87xeUSy":
         Script103();
         break;
-      case "5uKlp9rp5Jk":
+      case "5eH0W0QDpnJ":
         Script104();
         break;
-      case "60rokKW5h6j":
+      case "5VeOL3zwIjA":
         Script105();
         break;
-      case "5bniBTsAZda":
+      case "6SVRGroYxRQ":
         Script106();
         break;
-      case "6jo7fHXps59":
+      case "63P74lmU0MI":
         Script107();
         break;
-      case "609eYU0rPJn":
+      case "5yXaF0UtjE3":
         Script108();
         break;
-      case "61FcNFJN16f":
+      case "6H1Dd9wmyOn":
         Script109();
         break;
-      case "6eYVIcr4kGm":
+      case "60d7cDMAC16":
         Script110();
         break;
-      case "6mp8QPcaJ8F":
+      case "66hyOmneJDA":
         Script111();
         break;
-      case "5f7hRToH4jF":
+      case "5Xn0FyJUyuT":
         Script112();
         break;
-      case "6lYUDegsjCj":
+      case "6VeVwGuplWB":
         Script113();
         break;
-      case "5aEZ3XK74lZ":
+      case "6qvvNH7vBzA":
         Script114();
         break;
-      case "6m39S4vjGS4":
+      case "6BNfevnz0Lz":
         Script115();
         break;
-      case "5joanHaUPkP":
+      case "6902xR1goYC":
         Script116();
         break;
-      case "5X3Tr06Oa6K":
+      case "5aT9Ze42YGi":
         Script117();
         break;
-      case "6MCcveYTBGm":
+      case "5fdauyG3NpR":
         Script118();
         break;
-      case "6oVnxABiXTf":
+      case "6EdB8cy5712":
         Script119();
         break;
-      case "6ZXje2drMku":
+      case "6M9nueJyGZk":
         Script120();
         break;
-      case "69LD0hZV2Bn":
+      case "6JQgq4MbI5L":
         Script121();
         break;
-      case "5a7EmW6nik9":
+      case "6R3MWC6iIIt":
         Script122();
         break;
-      case "6OBKjszzQKp":
+      case "6H0Wm5HMXcx":
         Script123();
         break;
-      case "6JMnuxf5ZjU":
+      case "5x3BE6f3f3m":
         Script124();
         break;
-      case "6T5gZbnC0ro":
+      case "5aRHY6nrp5u":
         Script125();
         break;
-      case "6SycRA79V0u":
+      case "6PDU2Ahuq2e":
         Script126();
         break;
-      case "5tALu02TAki":
+      case "6hZGwongigA":
         Script127();
         break;
-      case "6NHKVpZ8jPn":
+      case "5YzNzjVNoQ7":
         Script128();
         break;
-      case "6KPUnoGul2H":
+      case "63I3r63Nx1o":
         Script129();
         break;
-      case "6lYYX7jrrvn":
+      case "67E8VlAZOfv":
         Script130();
         break;
-      case "6hlkQoYWf8Y":
+      case "5jVVOCLhLIF":
         Script131();
         break;
-      case "5v9LbRBJdRM":
+      case "5wnlvpxVYw7":
         Script132();
         break;
-      case "6Hs9q4vgElF":
+      case "6ML4yXiaGlt":
         Script133();
         break;
-      case "6ZJDt99Ohgi":
+      case "6Pq8aqcjmbV":
         Script134();
         break;
-      case "6B7YdzQaHa9":
+      case "5peknc9f8eT":
         Script135();
         break;
-      case "6IpSqkCYagS":
+      case "6DZhlSJtE8u":
         Script136();
         break;
-      case "6NLmIZpXIOi":
+      case "5XBjeJVFGnr":
         Script137();
         break;
-      case "6ToLQl10s3d":
+      case "6aqkKFf2HVX":
         Script138();
         break;
-      case "6mtKWI5y9QG":
+      case "5ZWioqiPF5n":
         Script139();
         break;
-      case "6VSI3vJVbJA":
+      case "6oJOF5co0oo":
         Script140();
         break;
-      case "5eu4RuJIhBI":
+      case "6KIzASQqoh2":
         Script141();
         break;
-      case "5pTVGXZYVGn":
+      case "6fNH6FwRDRd":
         Script142();
         break;
-      case "6NlLfciEk70":
+      case "5fJyPAq4c2a":
         Script143();
         break;
-      case "66rSTaDwFIY":
+      case "5YzoQN7Dc1J":
         Script144();
         break;
-      case "5UkiD97LjN3":
+      case "6A4ugdi07QG":
         Script145();
         break;
-      case "6GuqMczug8r":
+      case "6JUaGZVn0Nj":
         Script146();
         break;
-      case "5Zs1ExCaVf3":
+      case "6EofFgEy8FS":
         Script147();
         break;
-      case "6AMxgneNSFO":
+      case "6qELMPbALkS":
         Script148();
         break;
-      case "5ZJjTBqP8OQ":
+      case "6Ns2tjKtx22":
         Script149();
         break;
-      case "5uiFA2r0UZH":
+      case "61kGDwMBhDT":
         Script150();
         break;
-      case "6REFpGIgftK":
+      case "6k3cwVCHM0L":
         Script151();
         break;
-      case "6erUDY02pEO":
+      case "5dtMVSUyhl4":
         Script152();
         break;
-      case "6Mm1iH9Y7HQ":
+      case "6A2nzbyOCOT":
         Script153();
         break;
-      case "5Yy23jdOQNc":
+      case "5iy9NjoScF4":
         Script154();
         break;
-      case "6oveJZEkyzG":
+      case "61egCChMUCS":
         Script155();
         break;
-      case "6ohGsvyD6DH":
+      case "6XC18WdcBx2":
         Script156();
         break;
-      case "6d0q8f5km49":
+      case "5utKSHA4SEh":
         Script157();
         break;
-      case "6VL7ssQyBRB":
+      case "6Pj85VhR4Ch":
         Script158();
         break;
-      case "5w5wxCCq3Kt":
+      case "66JTAunGep0":
         Script159();
         break;
-      case "5oqS0n0KMcm":
+      case "5c555zAR3SK":
         Script160();
         break;
-      case "5sUWci7X4k8":
+      case "5sV2CmvUkJn":
         Script161();
         break;
-      case "68OgZ9wQeuI":
+      case "5bVIPilnCnE":
         Script162();
         break;
-      case "6LZr3lL9v1t":
+      case "5bie5IpAE71":
         Script163();
         break;
-      case "6bl7C23ffwQ":
+      case "69NHuU2jJe2":
         Script164();
         break;
-      case "68M32nP8Seh":
+      case "6VQkjspAtE9":
         Script165();
         break;
-      case "6peybsF79Nw":
+      case "5VcD14DIqcK":
         Script166();
         break;
-      case "6dwsvjKlC0O":
+      case "6Azr4zYNux1":
         Script167();
         break;
-      case "68BezXFLq3P":
+      case "5pHuFsVkKyY":
         Script168();
         break;
-      case "63e8g1VGt1G":
+      case "6KP26ZwZGv0":
         Script169();
         break;
-      case "5u4N6aAiQk5":
+      case "6YWYPcr555D":
         Script170();
         break;
-      case "6ODTALBav82":
+      case "5yv7ilLwH43":
         Script171();
         break;
-      case "6oMhScEjyee":
+      case "6TTdfACN24D":
         Script172();
         break;
-      case "6HiyQx4V0jm":
+      case "6I6fSC6kczP":
         Script173();
         break;
-      case "69mjMpOVElW":
+      case "6JsbX7asV5G":
         Script174();
         break;
-      case "6VCVgND4O1Z":
+      case "5X3NSDbBFMN":
         Script175();
         break;
-      case "6UEsESDLLU9":
+      case "5zGQHBFe1hC":
         Script176();
         break;
-      case "6TGoVtbkroJ":
+      case "6oQZMJXyGmC":
         Script177();
         break;
-      case "6qU9NAuLVyC":
+      case "64ksRPugBDz":
         Script178();
         break;
-      case "5hVGxPC7P43":
+      case "6munZZRdjPj":
         Script179();
         break;
-      case "6j68regG5gY":
+      case "6bqTKHAKtxb":
         Script180();
         break;
-      case "673WeZhStKM":
+      case "5cuYPrgw9hP":
         Script181();
         break;
-      case "5WKBLSQoytE":
+      case "6HYgzi51tAe":
         Script182();
         break;
-      case "5xecsiuM1bh":
+      case "5Z0EMlgbzeL":
         Script183();
         break;
-      case "5XLT360fjDf":
+      case "6C1lyCNYehN":
         Script184();
         break;
-      case "5ZMtxTXgdJi":
+      case "5oNtoDXeDhJ":
         Script185();
         break;
-      case "5qShYCpHtaG":
+      case "6E5qeAqe9RX":
         Script186();
         break;
-      case "6nL3yAAq3ji":
+      case "6EvP84GVLD7":
         Script187();
         break;
-      case "6FjWDIRTJCr":
+      case "6JtVjehiCl4":
         Script188();
         break;
-      case "6atzUEDERK5":
+      case "5fXAC8lDWvM":
         Script189();
         break;
-      case "6Z7Lp1DPeSJ":
+      case "5oC5OviYqTS":
         Script190();
         break;
-      case "6byrR6HHxFS":
+      case "5wqqbO44Tfr":
         Script191();
         break;
-      case "5cQ71MqCB7o":
+      case "6VFI3ccmk9W":
         Script192();
         break;
-      case "6TKDt8K7lEL":
+      case "5loeaI4fAG7":
         Script193();
         break;
-      case "67GWCREBtsh":
+      case "5rylJsogEAI":
         Script194();
         break;
-      case "6O3XAmAcfZ7":
+      case "5YHusZsiLEw":
         Script195();
         break;
-      case "6AIfxmK6nZT":
+      case "5uESqGig7dH":
         Script196();
         break;
-      case "6846Kjmvd3R":
+      case "6IlrFAYcDCs":
         Script197();
         break;
-      case "6hBbUTWFftL":
+      case "6MMDQhG3vG4":
         Script198();
         break;
-      case "6CcPkSG97Oz":
+      case "66kKUyAl17J":
         Script199();
         break;
-      case "65kvKsfYI5C":
+      case "6ovMWtMDHkl":
         Script200();
         break;
-      case "6FXbjFPVN8y":
+      case "6d4tyOt7N5x":
         Script201();
         break;
-      case "6S98o3c2rtH":
+      case "6V4QNiNhA0C":
         Script202();
         break;
-      case "68EYxUiz9QX":
+      case "5bqzjw6zCxh":
         Script203();
         break;
-      case "5YopF7Y5g5n":
+      case "6AdtHtuZmsf":
         Script204();
         break;
-      case "6BRia1Fl76c":
+      case "6Xa11qM7NpL":
         Script205();
         break;
-      case "5pKIu8GFGpG":
+      case "6LfiknhanR0":
         Script206();
         break;
-      case "5oGJcXxpQx5":
+      case "6P3aZ65FJKK":
         Script207();
         break;
-      case "5pgKoioqMBv":
+      case "61qggVvp2DM":
         Script208();
         break;
-      case "5i1fKKgU8JP":
+      case "68qjbmGASUD":
         Script209();
         break;
-      case "5bGqLuTdiJw":
+      case "6avEz06eMgA":
         Script210();
         break;
-      case "6diuYAD8lQX":
+      case "60xALW42WIu":
         Script211();
         break;
-      case "6QKpNnQqMgW":
+      case "63wOErT1ome":
         Script212();
         break;
-      case "6P2TqSpYXzy":
+      case "6BtAijNBCB1":
         Script213();
         break;
-      case "5eGdyPYsXHw":
+      case "62lIHjaug26":
         Script214();
         break;
-      case "6VQv05epvyQ":
+      case "5ZIjYUIgx9s":
         Script215();
         break;
-      case "6q3bcg7hUhB":
+      case "6e279bWBYEv":
         Script216();
         break;
-      case "6Tq8U0GGZPI":
+      case "6i5byJPIMVn":
         Script217();
         break;
-      case "5ngV6GXqKXa":
+      case "6Yj7yUtI6fD":
         Script218();
         break;
-      case "6jRb10jPskc":
+      case "6H2oECAcjHc":
         Script219();
         break;
-      case "6RdKooWWBb2":
+      case "5oXWaegLFVQ":
         Script220();
         break;
-      case "6PFDEm27tJi":
+      case "6CQXcaLBh77":
         Script221();
         break;
-      case "6L3k1fenlwe":
+      case "6J9UxwMHBRk":
         Script222();
         break;
-      case "61NmBdqQqCN":
+      case "6oi5MaquizE":
         Script223();
         break;
-      case "6qd19MC8gmq":
+      case "6gVFAFMj5Oy":
         Script224();
         break;
-      case "6LgM4oAThsx":
+      case "65HW9rqXQNx":
         Script225();
         break;
-      case "6VH3LbMvUBE":
+      case "5tp48meZbIj":
         Script226();
         break;
-      case "5ibnsVpL8bE":
+      case "5nDBp1poUF3":
         Script227();
         break;
-      case "6dsqjt8j5qA":
+      case "5dicQd5SRDo":
         Script228();
         break;
-      case "5WTUh0qZc73":
+      case "68IwSmsrF7f":
         Script229();
         break;
-      case "6DOXD31ZBZx":
+      case "6p5V8efFPu8":
         Script230();
         break;
-      case "5kM9dDJ4fcy":
+      case "5b3ORahELD4":
         Script231();
         break;
-      case "65uytu8TDS5":
+      case "5jzF4a3A3Uk":
         Script232();
         break;
-      case "6iFO30AvtKt":
+      case "6eYeprPt3Ck":
         Script233();
         break;
-      case "6JxYUhi5Xvh":
+      case "6b7Nrgu5wjf":
         Script234();
         break;
-      case "6IwHNdRA6at":
+      case "5vyybMHQAqG":
         Script235();
         break;
-      case "69RJtVJPIW1":
+      case "6i7t0hMEOPx":
         Script236();
         break;
-      case "5dxdjgQ8Y8n":
+      case "6FZxs84ldAA":
         Script237();
         break;
-      case "5eK2EdPuQkq":
+      case "6huJHBEv2N0":
         Script238();
         break;
-      case "60yGCRwueJC":
+      case "5Upa5sXLNec":
         Script239();
         break;
-      case "5Wh05HdvAFz":
+      case "5bEJgneDMuP":
         Script240();
         break;
-      case "6F8I9GD9EwL":
+      case "642hNH5mGgM":
         Script241();
         break;
-      case "5jE6F1UxNEU":
+      case "6B28OlbzRSU":
         Script242();
         break;
-      case "6r20Rve49sv":
+      case "6VW2NcZDtsL":
         Script243();
         break;
-      case "5sc2oTlYm0f":
+      case "6AaZwFE5hrf":
         Script244();
         break;
-      case "5kNanvYNcFl":
+      case "5nh3Yg3ty0U":
         Script245();
         break;
-      case "5VmfeMfMgHj":
+      case "6M6ZYcNhJjw":
         Script246();
         break;
-      case "5cmosDsgOak":
+      case "6YZgnDoTUWG":
         Script247();
         break;
-      case "6QEb8cuExdg":
+      case "5qR3zbBY1er":
         Script248();
         break;
-      case "5lLAgoIS70N":
+      case "5v68GYLimTw":
         Script249();
         break;
-      case "69fzBkZXemU":
+      case "5mJVPAra5Vw":
         Script250();
         break;
-      case "5qXAIRStfom":
+      case "5uouY063rLU":
         Script251();
         break;
-      case "60gJWWLYIVG":
+      case "5k97vmn847J":
         Script252();
         break;
-      case "5iRVQsljfS8":
+      case "6QGixpfxpCs":
         Script253();
         break;
-      case "5bcIm1nRfTP":
+      case "6pEEZE10Uvf":
         Script254();
         break;
-      case "5rHtRhex8hg":
+      case "6RNJiXCSakt":
         Script255();
         break;
-      case "6MInhwvaHGw":
+      case "5ibmQXpTv22":
         Script256();
         break;
-      case "691acLLIzVR":
+      case "6o6DcePbwll":
         Script257();
         break;
-      case "61VV1NVlxc6":
+      case "68EtJzDOVTh":
         Script258();
         break;
-      case "5nDmaITVcAU":
+      case "65q8lpKeAQa":
         Script259();
         break;
-      case "6idnrjx341y":
+      case "6hI9jdCtw5f":
         Script260();
         break;
-      case "6Z6EZOZHkS7":
+      case "6Yv2sCbiHYg":
         Script261();
         break;
-      case "606qjRINoIG":
+      case "67kGl2Uzfrt":
         Script262();
         break;
-      case "625GiaFrvtQ":
+      case "5ZlRSLRqJEM":
         Script263();
         break;
-      case "6YwaMpYBG18":
+      case "6lAi4KARKAd":
         Script264();
         break;
-      case "6CP94b8FH7H":
+      case "5ckdDk9XiBe":
         Script265();
         break;
-      case "61I22UG2vBe":
+      case "5bD9dHnD2bA":
         Script266();
         break;
-      case "64ija4GQu7J":
+      case "5jD7bgmZURp":
         Script267();
         break;
-      case "6WQrez6uj1K":
+      case "6qoBfaOEv6n":
         Script268();
         break;
-      case "6l70Ylc6489":
+      case "5ozmufrJ52H":
         Script269();
         break;
-      case "6AtDxjaICym":
+      case "6R5AveUBezD":
         Script270();
         break;
-      case "5sWMbkmQ6DC":
+      case "6ICeoXvF85M":
         Script271();
         break;
-      case "5woVoCf59fy":
+      case "5eqcqrlE9ae":
         Script272();
         break;
-      case "6Jv70xSOlJF":
+      case "5YoHj7QIyA7":
         Script273();
         break;
-      case "6dk7QIhGsxo":
+      case "6CJUH0UNXem":
         Script274();
         break;
-      case "61KW53oRmHN":
+      case "5xbhZPNkdE2":
         Script275();
         break;
-      case "6K1GRbuxth8":
+      case "5fsXflhWHGX":
         Script276();
         break;
-      case "6mCab0qwg1p":
+      case "6oTOerDsu43":
         Script277();
         break;
-      case "5gah7mKN7Yc":
+      case "6LhvhTdNVTp":
         Script278();
         break;
-      case "6ElCbN1wwsS":
+      case "5uHlQkzG4Jn":
         Script279();
         break;
-      case "5nBF2HZCKzV":
+      case "6YxWVAbEHV2":
         Script280();
         break;
-      case "6SuGqdpbmOd":
+      case "6ZapSWMuN8W":
         Script281();
         break;
-      case "6MLmZKo1r2Q":
+      case "6esY1onpyq2":
         Script282();
         break;
-      case "5q9s8sd2ZKM":
+      case "6bUH23bjV98":
         Script283();
         break;
-      case "5gLoDDDCQ48":
+      case "5v8C5La36vy":
         Script284();
         break;
-      case "5kx6B4Lnwsb":
+      case "69KaYtcaaId":
         Script285();
         break;
-      case "6QRaJhlXsDP":
+      case "5YQs68UyChk":
         Script286();
         break;
-      case "60F4DzYVwP9":
+      case "66OFs5oHsP4":
         Script287();
         break;
-      case "6n5D0RgDNxB":
+      case "69cHT9sYkNq":
         Script288();
         break;
-      case "5dBDNefkHjQ":
+      case "5cnyUZGf5xi":
         Script289();
         break;
-      case "5twjP5j7E0d":
+      case "6LBvNqiZkgH":
         Script290();
         break;
-      case "5gZ5RCInToT":
+      case "6NGYtingaHP":
         Script291();
         break;
-      case "5v1QoTOrXlz":
+      case "5XvxWcjNd6d":
         Script292();
         break;
-      case "5ykfQn2sDf3":
+      case "6IpBCPUqknu":
         Script293();
         break;
-      case "5iD5yX8ODJv":
+      case "5umUBii0q4h":
         Script294();
         break;
-      case "6BUgq9k3OvU":
+      case "60qzqSswqKK":
         Script295();
         break;
-      case "6boLuw2y60T":
+      case "6joknessu5w":
         Script296();
         break;
-      case "6Aq3GhjZ8zj":
+      case "6POnWCZQQhi":
         Script297();
         break;
-      case "5cnv5pQXMQK":
+      case "60KeTMD2GnG":
         Script298();
         break;
-      case "5oXedV5whoj":
+      case "6Z9p4LUEhy7":
         Script299();
         break;
-      case "67d6pWvRWWf":
+      case "6aVyhDpsaI0":
         Script300();
         break;
-      case "6VbDdvb487I":
+      case "5zZ3NtU0TA0":
         Script301();
         break;
-      case "6RA6ceIVTtn":
+      case "6YGOgSwo8Oo":
         Script302();
         break;
-      case "6bLzL0fb2Cf":
+      case "5jNd0lQgmfP":
         Script303();
         break;
-      case "66T6r08jEOy":
+      case "5fKPLUsc7FJ":
         Script304();
         break;
-      case "6HCdfwmnihF":
+      case "6UDSg78FDwn":
         Script305();
         break;
-      case "5rVAS5WZvIL":
+      case "6IR1QpEq8Ew":
         Script306();
         break;
-      case "5xybTKxk36p":
+      case "6Jql9kmI8D6":
         Script307();
         break;
-      case "5YClsDBm9qS":
+      case "6nKJwcPftxQ":
         Script308();
         break;
-      case "6ZLSPwXCPQI":
+      case "5sjh4SETDDZ":
         Script309();
         break;
-      case "6hHBExs3Ckg":
+      case "5WfYuD295fR":
         Script310();
         break;
-      case "67ROg5hDFNY":
+      case "61vV6BMQMO5":
         Script311();
         break;
-      case "5e5B1UKxNqY":
+      case "6emnma5KUvM":
         Script312();
         break;
-      case "61v30dNmm9I":
+      case "5rTKjSvqYcG":
         Script313();
         break;
-      case "5iRcG4NWP0M":
+      case "5WdUaINidvk":
         Script314();
         break;
-      case "6YTFvVeb9rR":
+      case "5jJXLifaeK6":
         Script315();
         break;
-      case "5ytsasxTPmW":
+      case "6kUSa6E4NTp":
         Script316();
         break;
-      case "64Mfi3zlN1l":
+      case "64yEGc5QsEC":
         Script317();
         break;
-      case "5tjHPz0wi2s":
+      case "5c0nUP89PRU":
         Script318();
         break;
-      case "6YpZ8MVbqIo":
+      case "5YiZr0oxWaz":
         Script319();
         break;
-      case "6avZRCjUi2X":
+      case "6NrHMsroGfk":
         Script320();
         break;
-      case "6VBAoB9sNIP":
+      case "5uvv64WU3vN":
         Script321();
         break;
-      case "6XpsEigITfq":
+      case "6jI53auXvG7":
         Script322();
         break;
-      case "6KXeGtiEQPn":
+      case "5UqFwmtie6h":
         Script323();
         break;
-      case "5jgclVKNTXa":
+      case "6BL00claH6W":
         Script324();
         break;
-      case "65tJfFRWFJC":
+      case "5hSJKeYgjnw":
         Script325();
         break;
-      case "6JyzgdLPG8F":
+      case "5zxbZLQCKPU":
         Script326();
         break;
-      case "6mxZ4tMSAyT":
+      case "5wI3Nj32wfI":
         Script327();
         break;
-      case "5z8ikSJLEjf":
+      case "5sgugGjaUUO":
         Script328();
         break;
-      case "6RzdsWJgYpu":
+      case "5ubE8LQvQUr":
         Script329();
         break;
-      case "6AgEEMHu3MJ":
+      case "6OLRpu9pX7l":
         Script330();
         break;
-      case "6B6UhW4EVVu":
+      case "6ImawGUcUZY":
         Script331();
         break;
-      case "6AimfU5CHn4":
+      case "6Ri2vnDwwEH":
         Script332();
         break;
-      case "60sAtFvHKVM":
+      case "5jvfg4FtWDA":
         Script333();
         break;
-      case "6eTeFWWqMU7":
+      case "5zeB0vx8dnW":
         Script334();
         break;
-      case "6eCFfQwnEgS":
+      case "62jvXcGiSfn":
         Script335();
         break;
-      case "6oktfzwdssG":
+      case "6S0BNqZWCYy":
         Script336();
         break;
-      case "6kLzpilFQb2":
+      case "6PWTj9OqzdW":
         Script337();
         break;
-      case "65FxI6zZzVQ":
+      case "6QqPwhQe2YA":
         Script338();
         break;
-      case "6mYO8Ih2ZGi":
+      case "5ZhqdWQZgxA":
         Script339();
         break;
-      case "5olPVBhAHyH":
+      case "6DbioKseeeu":
         Script340();
         break;
-      case "6luHsqpz9A8":
+      case "6bymJ2AK5aM":
         Script341();
         break;
-      case "6Tcn5cryKCw":
+      case "6cXdb38nmSs":
         Script342();
         break;
-      case "6AmwD4DoI3a":
+      case "6eDZ5qhCbST":
         Script343();
         break;
-      case "5izxdy9qnqc":
+      case "6paQTLsJ9iH":
         Script344();
         break;
-      case "6peZZWTmPPU":
+      case "6F06CXARiRR":
         Script345();
         break;
-      case "6cP6o23IgIq":
+      case "5oOTRJlV1FK":
         Script346();
         break;
-      case "6VQ1oLQJ9Pj":
+      case "6BbdaGE7xRD":
         Script347();
         break;
-      case "5X2Wq5RcDIf":
+      case "6G0KcdzShF0":
         Script348();
         break;
-      case "5rmYmXB2huz":
+      case "5dnwBMOswnt":
         Script349();
         break;
-      case "6qRAS65I3nr":
+      case "6Xk67mJ5j8X":
         Script350();
         break;
-      case "5ad8uIrnF54":
+      case "5whtNuB4Mo7":
         Script351();
         break;
-      case "6F7h8EJoPW1":
+      case "5wcKjTCtNM4":
         Script352();
         break;
-      case "5shPRPTj98h":
+      case "5jPjPZVbzhw":
         Script353();
         break;
-      case "5haKrBbMKrh":
+      case "5tve3NGYYpy":
         Script354();
         break;
-      case "5n8KtrpQueG":
+      case "5wGDeoIJEjT":
         Script355();
         break;
-      case "5ijc93xE1Z8":
+      case "6XpacArictu":
         Script356();
         break;
-      case "6ODq6q3guli":
+      case "6aWN6N3cf4Q":
         Script357();
         break;
-      case "6WHLrRVAXnB":
+      case "6Eye9V3G48y":
         Script358();
         break;
-      case "6J5tbZ7xAVn":
+      case "6ALm6bsS365":
         Script359();
         break;
-      case "6bX8rSm4Z6S":
+      case "6pKKpRezZtd":
         Script360();
         break;
-      case "5dKK1itZl24":
+      case "6SC98Jf8GHh":
         Script361();
         break;
-      case "648F5no7UPy":
+      case "5YMRAvu93wK":
         Script362();
         break;
-      case "6aOyjnrYWYx":
+      case "60Zj1fBuLCv":
         Script363();
         break;
-      case "65JeOLrmRha":
+      case "60SK5eQYpkQ":
         Script364();
         break;
-      case "6lmALXXc2Ah":
+      case "6WvQdA7fsjR":
         Script365();
         break;
-      case "6DYlF57kdYb":
+      case "6azUZYiSG2U":
         Script366();
         break;
-      case "687s4qQKK6F":
+      case "6q7fQsGxyhz":
         Script367();
         break;
-      case "5qAK5mL3xjc":
+      case "6ToTCK02vAq":
         Script368();
         break;
-      case "5XrEHl9GHjv":
+      case "60LbrR9FjPZ":
         Script369();
         break;
-      case "6UmtirHViuH":
+      case "5y8dtrcICm2":
         Script370();
         break;
-      case "6dtzga2hB0t":
+      case "6StdZf2kHSz":
         Script371();
         break;
-      case "6rcJXKeuRbk":
+      case "6UOequt1B4A":
         Script372();
         break;
-      case "5de25ixbwjD":
+      case "6E6J2mN2Afo":
         Script373();
         break;
-      case "65J1TEVfP0Z":
+      case "6oxoI1FNM5W":
         Script374();
         break;
-      case "62LH0oMHawK":
+      case "5oaMFIjXECS":
         Script375();
         break;
-      case "6Z0tgHaKW6F":
+      case "6ZgzvJM6Ead":
         Script376();
         break;
-      case "5WdHSVmWiDj":
+      case "5h22CQrkLau":
         Script377();
         break;
-      case "6aa3QeSG96j":
+      case "6rR2fxFLpBx":
         Script378();
         break;
-      case "60qOva1tg9K":
+      case "6GD2hEEIJac":
         Script379();
         break;
-      case "5xXhUK6qAi3":
+      case "63FDEYS0fvQ":
         Script380();
         break;
-      case "67yMb84PE13":
+      case "639NHBoydiM":
         Script381();
         break;
-      case "5vijlC1fkta":
+      case "6IiSO9n80gC":
         Script382();
         break;
-      case "5j77f42U9RR":
+      case "6R1YMwATNwe":
         Script383();
         break;
-      case "624A9OWJvhK":
+      case "5qtJVcwQoqz":
         Script384();
         break;
-      case "6Ha48HlO4NU":
+      case "5yRCMKRlPnC":
         Script385();
         break;
-      case "6K8J17SyWMC":
+      case "5iEYLB6jFHM":
         Script386();
         break;
-      case "6F63wZscmyu":
+      case "5o7ltYGQywI":
         Script387();
         break;
-      case "5Z5H5yIznj7":
+      case "6NpcefpCS64":
         Script388();
         break;
-      case "6HTnronMHV9":
+      case "6OLUPQ9SwQ1":
         Script389();
         break;
-      case "5eftaVnt3AZ":
+      case "66CpDbh9Dkz":
         Script390();
         break;
-      case "67lJVttJYSP":
+      case "6a1BsCl3FE3":
         Script391();
         break;
-      case "6WcUhkkZuZS":
+      case "5iMKBTCKO6N":
         Script392();
         break;
-      case "6E63pkE714D":
+      case "6CKTXQECOIX":
         Script393();
         break;
-      case "61QzXfg7MWl":
+      case "5cMnzIPVD5F":
         Script394();
         break;
-      case "6Vb3vaxOhLu":
+      case "5ay8g9JqqD7":
         Script395();
         break;
-      case "6YOQi6O20BN":
+      case "6hKtwuS4WIL":
         Script396();
         break;
-      case "6heSYBEvKQj":
+      case "5dHUDKurAYI":
         Script397();
         break;
-      case "6V8fCqJf3NI":
+      case "6k9oqXKSHlN":
         Script398();
         break;
-      case "63P5FdTSwSh":
+      case "6LHt55emyv0":
         Script399();
         break;
-      case "6oEuKBSPuVg":
+      case "6YTEMogaxmX":
         Script400();
         break;
-      case "6jRIlyv8ZDS":
+      case "6NnnE89dUNa":
         Script401();
         break;
-      case "6DDkc56NDQE":
+      case "6n4mwx2C4ow":
         Script402();
         break;
-      case "6dRHNcziv1D":
+      case "60LlDMaFtsg":
         Script403();
         break;
-      case "6BfMILv7U7L":
+      case "6bSmms9NbfZ":
         Script404();
         break;
-      case "6ArqXfImgnP":
+      case "66gqSkuNSty":
         Script405();
         break;
-      case "6eLF7CUhLJd":
+      case "5dIojJVBsl5":
         Script406();
         break;
-      case "5yMHjrqBmuQ":
+      case "6a8Op0cOCrU":
         Script407();
         break;
-      case "5ebA8Oz9Sz0":
+      case "5yRVOgG6SDs":
         Script408();
         break;
-      case "5da4d8HiDzf":
+      case "5xUleQBvc42":
         Script409();
         break;
-      case "5r7FVOZ7Fas":
+      case "6jaIFwmcELW":
         Script410();
         break;
-      case "6N6ScIKPb00":
+      case "6QckSExdGzg":
         Script411();
         break;
-      case "5o1GH5LR6mc":
+      case "5p2vN5k1PEz":
         Script412();
         break;
-      case "5qedK6EYI3J":
+      case "6hhCk3dBnXt":
         Script413();
         break;
-      case "5w0dOEiuN7O":
+      case "6VNFAlkTrBG":
         Script414();
         break;
-      case "6KXksjkcLzA":
+      case "6qbgC4t0edf":
         Script415();
         break;
-      case "6nm3IUrMbJp":
+      case "6X1fsBcOhpe":
         Script416();
         break;
-      case "5wAK5OUCYxe":
+      case "6RGHbfjA1cn":
         Script417();
         break;
-      case "5coeDQaxXhh":
+      case "6iWuhMisoXS":
         Script418();
         break;
-      case "6mZWoKnzYMe":
+      case "65IqBKQ5KRC":
         Script419();
         break;
-      case "6PqejMh8X9S":
+      case "6kc6Cyn0N0e":
         Script420();
         break;
-      case "6HOrgUCFVk8":
+      case "5kpvWlaVhhy":
         Script421();
         break;
-      case "6RayzDwvEp8":
+      case "6jXyFzcigGW":
         Script422();
         break;
-      case "63evrzadNWL":
+      case "6cvra6Xls3f":
         Script423();
         break;
-      case "5tnl6YVB1EO":
+      case "5VwPB92y9Wq":
         Script424();
         break;
-      case "69vMRmExk2Q":
+      case "6Gglt2E0l7a":
         Script425();
         break;
-      case "6Xcy0N1AW6R":
+      case "5zLSGz4kTKR":
         Script426();
         break;
-      case "5Y8IH4zCAJb":
+      case "5jshqtFVdYW":
         Script427();
         break;
-      case "6Ph4ojiujWq":
+      case "5ZsBsMX8bpe":
         Script428();
         break;
-      case "6kBXhwt8s1V":
+      case "6eKlx13MSzn":
         Script429();
         break;
-      case "5kS7xpRRqe0":
+      case "5cV5xUKadYY":
         Script430();
         break;
-      case "6Dy6tIS8sja":
+      case "5grWFbh53kF":
         Script431();
         break;
-      case "6bWrixcN1Nf":
+      case "6gh0XrCmFsi":
         Script432();
         break;
-      case "5kFLmrmsIHS":
+      case "6U0mFMNGVen":
         Script433();
         break;
-      case "5dAQ9thOjU5":
+      case "62Fq5hMFood":
         Script434();
         break;
-      case "6E3SGufIJjs":
+      case "6qSCwtTc66r":
         Script435();
         break;
-      case "6gb2T3x8gR4":
+      case "5b9ACYXyOzu":
         Script436();
         break;
-      case "62hzqhdsjnA":
+      case "6dbNPFAiNIX":
         Script437();
         break;
-      case "5ytZHCblWmU":
+      case "6hswBmRCApE":
         Script438();
         break;
-      case "6hI3y9ES86k":
+      case "5znPv6NDYUk":
         Script439();
         break;
-      case "5a26v2wvcWc":
+      case "6LRQuo5lIkJ":
         Script440();
         break;
-      case "5mLlVzGsT5h":
+      case "6oWtqv0ak9n":
         Script441();
         break;
-      case "5ZPjsDcR1Ya":
+      case "5ta9F8BenRa":
         Script442();
         break;
-      case "6MnsVchjzy8":
+      case "5shYfzNhFpw":
         Script443();
         break;
-      case "5x3A6sLYViX":
+      case "5XjwZbdibHZ":
         Script444();
         break;
-      case "6etw2Ujv6VN":
+      case "69ro4qVF7k5":
         Script445();
         break;
-      case "62psGASGFXz":
+      case "5urhgxZ19kP":
         Script446();
         break;
-      case "5xOkRGvGe3x":
+      case "5YTVRI11grt":
         Script447();
         break;
-      case "6fYlu6NaCO1":
+      case "5V5fEKAgadu":
         Script448();
         break;
-      case "5vI7A0SDhIo":
+      case "5vmiaCVlaQ5":
         Script449();
         break;
-      case "5rRqG3DBrNL":
+      case "6WAvYip5MDC":
         Script450();
         break;
-      case "6nTngolShde":
+      case "5d7IEhuUWsG":
         Script451();
         break;
-      case "6ZMmaGcb84C":
+      case "5herI6PXEGn":
         Script452();
         break;
-      case "5e2qbwNmKBm":
+      case "6pPqCdPIJqS":
         Script453();
         break;
-      case "5cPpWizsPpt":
+      case "6lG4BoLxuBU":
         Script454();
         break;
-      case "5yXU622xajq":
+      case "6Vwntqe1ZW2":
         Script455();
         break;
-      case "5sk0br8CjOr":
+      case "6ohOHTEz3CI":
         Script456();
         break;
-      case "5kJuNGPAKkG":
+      case "5zHJBupvpHn":
         Script457();
         break;
-      case "6PWkeHooRNC":
+      case "5o7zMxLp64P":
         Script458();
         break;
-      case "5wecWyyAQKB":
+      case "6hZCXdKYgOh":
         Script459();
         break;
-      case "6Gsf7Vr8Zfb":
+      case "5jCjBtZrKKr":
         Script460();
         break;
-      case "63sNmrqoofN":
+      case "5rWK0njWoZD":
         Script461();
         break;
-      case "64nZkeH4RBJ":
+      case "5rfnb84pPgM":
         Script462();
         break;
-      case "6Z1xNgRISWw":
+      case "5XXlzvumzW0":
         Script463();
         break;
-      case "6RdIkUhBipC":
+      case "5jbL9sZaTz1":
         Script464();
         break;
-      case "5mpAT9m4HPn":
+      case "6SHzoeVnCaT":
         Script465();
         break;
-      case "5YoWUrby3Y1":
+      case "5XwNmB4ieRN":
         Script466();
         break;
-      case "6S833PQzl2Z":
+      case "5iZHiWggYH1":
         Script467();
         break;
-      case "6LwjEKvvS1q":
+      case "6kjBTJzKY5J":
         Script468();
         break;
-      case "5XJ20oq8cka":
+      case "5evv1qpeFMy":
         Script469();
         break;
-      case "6Yr1lyzsbgu":
+      case "6rIR5jLWp36":
         Script470();
         break;
-      case "6iHXPmhz9cD":
+      case "6QX4MuO44ci":
         Script471();
         break;
-      case "6fqHIeaBDaM":
+      case "6Y76kaFYke4":
         Script472();
         break;
-      case "6l3isQ79iM3":
+      case "5ySQDC4plgj":
         Script473();
         break;
-      case "5rCHQ4nibj9":
+      case "6PR1nvzQqBe":
         Script474();
         break;
-      case "6V7H4Y1QyoK":
+      case "5vf4tx7XvkB":
         Script475();
         break;
-      case "5Vor8k04ZCC":
+      case "6TqgyvxkAsd":
         Script476();
         break;
-      case "5d7boUZTJIy":
+      case "5VnywynKgOL":
         Script477();
         break;
-      case "6Cz9AyB3Txi":
+      case "6JQLKUuTwWY":
         Script478();
         break;
-      case "5xm3DzFcpH0":
+      case "6DiV7cG0sRO":
         Script479();
         break;
-      case "6rFICRyPQP6":
+      case "5onK4ThJE4M":
         Script480();
         break;
-      case "65fWTkmFQmF":
+      case "5ahE87kYoo1":
         Script481();
         break;
-      case "6XV96mOSHna":
+      case "5xH5edpNgtZ":
         Script482();
         break;
-      case "66DZvFxq4oj":
+      case "663m3yZ0ivm":
         Script483();
         break;
-      case "6ivCe2OkUh6":
+      case "63IzKym9j9z":
         Script484();
         break;
-      case "6oB9z2IVV3w":
+      case "5kcr76jPKGh":
         Script485();
         break;
-      case "5mrdTLZjfHP":
+      case "6qOiDbR1lt1":
         Script486();
         break;
-      case "5Z4540IOUlo":
+      case "6iXTCfph4VP":
         Script487();
         break;
-      case "5ktlAXnXT2B":
+      case "5z85dIVDuQt":
         Script488();
         break;
-      case "5mqCImUkm7Z":
+      case "5xSQYOEwEUS":
         Script489();
         break;
-      case "5XmN0VT9ave":
+      case "6hdNm55FeB1":
         Script490();
         break;
-      case "5qG5rgBfjjV":
+      case "6osjTynFhcH":
         Script491();
         break;
-      case "6n0XVUtBj5I":
+      case "647nV3oXCsl":
         Script492();
         break;
-      case "6b491g7epXF":
+      case "6HIjjHxS5Yh":
         Script493();
         break;
-      case "6eiZOQVY89m":
+      case "5ahol5tOEeV":
         Script494();
         break;
-      case "62lrL7yP7Jt":
+      case "5lh8DaZllNw":
         Script495();
         break;
-      case "5weGVfO6JUZ":
+      case "5XIJSTKdpp5":
         Script496();
         break;
-      case "6ZDAbUSiIGI":
+      case "5xfHbcrsvg7":
         Script497();
         break;
-      case "6lQWUTZ0GVF":
+      case "65Kz3maIYmK":
         Script498();
         break;
-      case "6EcXLEePMBA":
+      case "6b1lymwnwlH":
         Script499();
         break;
-      case "5YTAPlGZYzS":
+      case "5qnAz10J6uz":
         Script500();
         break;
-      case "6j0q9D8AWP1":
+      case "6TjPQLdHG9D":
         Script501();
         break;
-      case "5kLFNBkgQ3N":
+      case "5iRlJWFHgZX":
         Script502();
         break;
-      case "6kieTjAYI28":
+      case "5cx7ktQnAJi":
         Script503();
         break;
-      case "6YzHuehlxrX":
+      case "6bI0M6g5a9P":
         Script504();
         break;
-      case "5kRAXgmaavc":
+      case "68kpp55Q2yD":
         Script505();
         break;
-      case "6lRxuc38S65":
+      case "6mWvqbndTpj":
         Script506();
         break;
-      case "6YlfHwdZjK7":
+      case "67GIOqAS0ry":
         Script507();
         break;
-      case "5jqfZdTSCNi":
+      case "6ATPcaWqTzM":
         Script508();
         break;
-      case "62Niv57J2wg":
+      case "6AGsSK0D9cD":
         Script509();
         break;
-      case "6KFTI9BtH5T":
+      case "6AofG7B7pm5":
         Script510();
         break;
-      case "6EoRRUeAu7p":
+      case "6SnCr8h1zje":
         Script511();
         break;
-      case "6UCNZwcaFSe":
+      case "6odGh8YGu4Z":
         Script512();
         break;
-      case "6Tird3IP4b6":
+      case "5z69rj4Q8Po":
         Script513();
         break;
-      case "5uNSeWcVsmM":
+      case "6h6BOgBcXW1":
         Script514();
         break;
-      case "5rXiNUAnCxZ":
+      case "6nCkdpiu0Qz":
         Script515();
         break;
-      case "5lK3JSVoWNd":
+      case "5jdeEhi1Xx2":
         Script516();
         break;
-      case "65vOsYPgHSP":
+      case "6SoPKXn4V2e":
         Script517();
         break;
-      case "6kykZfVnI9s":
+      case "6QVbZneb9xF":
         Script518();
         break;
-      case "6o5ZyIQKEHV":
+      case "5Xu7kNMMnnj":
         Script519();
         break;
-      case "5hNqMq3lRTo":
+      case "6JHwEe4jyu8":
         Script520();
         break;
-      case "6oLH6J3alFh":
+      case "6bg2bx2XwKK":
         Script521();
         break;
-      case "6LIq6cjbKh4":
+      case "62smy22ydi4":
         Script522();
         break;
-      case "69ZjV8Hq5tF":
+      case "6BptA3mQ4uw":
         Script523();
         break;
-      case "5W2g6SZJyuJ":
+      case "67t0nFVbF0C":
         Script524();
         break;
-      case "6f8OdDT5Egj":
+      case "5o5KSoSenrr":
         Script525();
         break;
-      case "6VwvnOLk9JG":
+      case "641JEQ49Hti":
         Script526();
         break;
-      case "5ywRUWWePm4":
+      case "5enTYZLE0V0":
         Script527();
         break;
-      case "6KIxe3vx5AW":
+      case "6ZofPMxDZlJ":
         Script528();
         break;
-      case "63wbO1NLsox":
+      case "5wDC3mt19ip":
         Script529();
         break;
-      case "6ScDmaqiw9z":
+      case "6SEy9j7oPax":
         Script530();
         break;
-      case "5gdkoW1EXfL":
+      case "6MWrOgMS6LO":
         Script531();
         break;
-      case "6E99rPfjQDp":
+      case "67707CTJ8Nb":
         Script532();
         break;
-      case "5hnytzFCIzr":
+      case "5iikQkkjrub":
         Script533();
         break;
-      case "5qha1zQFJrC":
+      case "6UmVk8o7E2h":
         Script534();
         break;
-      case "6PiT4gDDnsh":
+      case "5XUkqFeOs8M":
         Script535();
         break;
-      case "6o1pTLRUxTA":
+      case "6Z43tk0BC0n":
         Script536();
         break;
-      case "6nmrZQKgnRv":
+      case "6V8i8UrQ0kn":
         Script537();
         break;
-      case "6GKVCmkoCSX":
+      case "6X9B8PKsKeq":
         Script538();
         break;
-      case "5pwsLAqn1bF":
+      case "6JdmiOV3FFA":
         Script539();
         break;
-      case "5skm6X3Q6KF":
+      case "6kX81qol0mk":
         Script540();
         break;
-      case "6WpbQKZEjbw":
+      case "5jTahLNfTCi":
         Script541();
         break;
-      case "5ylVTK79LLq":
+      case "5XnN9P454FT":
         Script542();
         break;
-      case "6gokAMkxiJG":
+      case "5ouvvXq1neU":
         Script543();
         break;
-      case "66cLz01evCp":
+      case "5vOWsgbqcfb":
         Script544();
         break;
-      case "5mRdQjKnXWU":
+      case "6HCi7FONf7Y":
         Script545();
         break;
-      case "6XO0xxhByQJ":
+      case "6Gbc9kwBI5U":
         Script546();
         break;
-      case "64PIElEncrj":
+      case "6bT1SN6sf3K":
         Script547();
         break;
-      case "5nc3Fc4Fr5m":
+      case "5rZzaAJ84Ur":
         Script548();
         break;
-      case "5opW0OOPWNG":
+      case "6NhZKMS8T2I":
         Script549();
         break;
-      case "5r442JN4OYa":
+      case "6GbqlFDFjHz":
         Script550();
         break;
-      case "6bXFbIrbVNJ":
+      case "5W1H20MXqbR":
         Script551();
         break;
-      case "6pTbSh7uN76":
+      case "6kB8i26poC6":
         Script552();
         break;
-      case "6HtqC55K7Tm":
+      case "6cjMqsL8cMe":
         Script553();
         break;
-      case "5ofPg3hdbxy":
+      case "6qUKk7DLGPK":
         Script554();
         break;
-      case "5i4QyVkDJBV":
+      case "5hVmOxSn9QT":
         Script555();
         break;
-      case "5vWsf89PtO4":
+      case "5rSzyzjxjP1":
         Script556();
         break;
-      case "6PJHCiixRWo":
+      case "6AJkiOoV1RX":
         Script557();
         break;
-      case "5Yn6IT8WGYy":
+      case "5kIZhozP2Iy":
         Script558();
         break;
-      case "6RTrSF3N01m":
+      case "5wYjaEmvBI5":
         Script559();
         break;
-      case "6cxCa1yOG9M":
+      case "5waiEoiRJ9M":
         Script560();
         break;
-      case "5mIPEhfOaYP":
+      case "5xtv45PAipa":
         Script561();
         break;
-      case "5v0UZ5Xr9Bn":
+      case "63YYRwwMOqa":
         Script562();
         break;
-      case "6M3VNtjzguk":
+      case "68gwmzhxwpw":
         Script563();
         break;
-      case "5cAUmSb8rcP":
+      case "64S2NfGd006":
         Script564();
         break;
-      case "62SmIkbNE3E":
+      case "5rRBoe1OAuh":
         Script565();
         break;
-      case "6JorPDeXv51":
+      case "6m5vCn4976q":
         Script566();
         break;
-      case "5yogfjxnKCV":
+      case "6fk5AUM4QAj":
         Script567();
         break;
-      case "5Wk3r8NCrtF":
+      case "5uax8y6XrNI":
         Script568();
         break;
-      case "6NuaAMPZdTu":
+      case "63j0a1VkZeM":
         Script569();
         break;
-      case "6YGOrTCzI6B":
+      case "5rVIAXLfxKG":
         Script570();
         break;
-      case "6iDErUMWg2Y":
+      case "6U2ByO9SBxg":
         Script571();
         break;
-      case "5e4AD8ZxZOY":
+      case "5ovVaRonlUX":
         Script572();
         break;
-      case "60vIgtt9R1j":
+      case "5xkajjALa34":
         Script573();
         break;
-      case "6FMNwM9ESZT":
+      case "6b3GYEbBaEv":
         Script574();
         break;
-      case "5wrzT4mxVfE":
+      case "6PjgryVnmmC":
         Script575();
         break;
-      case "6dvwOml8xUa":
+      case "5WGB0k3J4GV":
         Script576();
         break;
-      case "6PR14wJkxko":
+      case "6lcXVgY0i8G":
         Script577();
         break;
-      case "5kBC8MyrO20":
+      case "5vlEA5gkUHZ":
         Script578();
         break;
-      case "64bMyjJZIAo":
+      case "68AceJoptsf":
         Script579();
         break;
-      case "5o7hwKTSVFv":
+      case "6OYuHA5IMAV":
         Script580();
         break;
-      case "5XhKKvaSuhi":
+      case "66RRF7oZpRb":
         Script581();
         break;
-      case "6MOix3Zl49P":
+      case "6MGMEJFlfpZ":
         Script582();
         break;
-      case "5bBeVWvXqTj":
+      case "6dXe8Op8V2S":
         Script583();
         break;
-      case "6jftfzpOpVE":
+      case "6nrQmRdf7m4":
         Script584();
         break;
-      case "6WNRdD3BNj0":
+      case "6T7mrEY5Rab":
         Script585();
         break;
-      case "6mSMjX5BtgM":
+      case "5lhSQ6zNCNj":
         Script586();
         break;
-      case "6pKk3r8V2Ad":
+      case "5g9BS9ad05L":
         Script587();
         break;
-      case "6iO6oUjjiVk":
+      case "6dVsB8FguG7":
         Script588();
         break;
-      case "5xCqxSxskG5":
+      case "6Lh1M0jlrLW":
         Script589();
         break;
-      case "5imsZmLDF0W":
+      case "6pt5F14miQV":
         Script590();
         break;
-      case "66l7lp7uRqh":
+      case "6LtyIuTtTBO":
         Script591();
         break;
-      case "6W5LUdlRFSY":
+      case "5bjfw2NVE97":
         Script592();
         break;
-      case "5cPMHzz6XZL":
+      case "5sGbJTdwcv9":
         Script593();
         break;
-      case "6Q1ik3kOsN2":
+      case "6aYBj0pV8bf":
         Script594();
         break;
-      case "5Zz6a82WpRl":
+      case "5XSogpdk42r":
         Script595();
         break;
-      case "6LNfDS6Lvuj":
+      case "6Ig7IeV782p":
         Script596();
         break;
-      case "6rHcF11rPTX":
+      case "5vxZdHmkeJX":
         Script597();
         break;
-      case "6PwhnB9KNIq":
+      case "5gQjbl5XZNG":
         Script598();
         break;
-      case "6a3uGPe3JmD":
+      case "6eaoJmJ1xeh":
         Script599();
         break;
-      case "5cymoeZfFco":
+      case "6Gl1EQ82zOS":
         Script600();
         break;
-      case "6noMXFMdJYV":
+      case "6LqaDiRclDt":
         Script601();
         break;
-      case "6ENEb2fwHtJ":
+      case "6UqGs2im6YO":
         Script602();
         break;
-      case "62mM7aCHuxo":
+      case "6r2dJYtt0Qf":
         Script603();
         break;
-      case "6B2twANfNoO":
+      case "6mRGOAbu1lU":
         Script604();
         break;
-      case "6go1XSie2lb":
+      case "6Y7ePh0MnOp":
         Script605();
         break;
-      case "6cAgYigLzug":
+      case "5iE1SxL6Ks2":
         Script606();
         break;
-      case "5xnUzCzcE2A":
+      case "635HsgGt3Iz":
         Script607();
         break;
-      case "6FUe0RgQLUi":
+      case "5c0vwkhfwwJ":
         Script608();
         break;
-      case "6mIRXM4yams":
+      case "5UzgOAoMwEZ":
         Script609();
         break;
-      case "639dJKZXRRF":
+      case "5wlPOXLknGZ":
         Script610();
         break;
-      case "6mgqCNLdq48":
+      case "6D71ZP9jXtZ":
         Script611();
         break;
-      case "5ZRQBbEMy1G":
+      case "63F5SFalprN":
         Script612();
         break;
-      case "6frKqEfFnGl":
+      case "5cQjJsoIAq6":
         Script613();
         break;
-      case "5aO6Vn3kwM3":
+      case "5VVrqfPpn7t":
         Script614();
         break;
-      case "5buPm6oAnFG":
+      case "6eglZgMPKMH":
         Script615();
         break;
-      case "6JhI1RlHioc":
+      case "6BjyAyPB1Ft":
         Script616();
         break;
-      case "5aUbSkn5Vnq":
+      case "627rvUE4CkK":
         Script617();
         break;
-      case "6dgXOKchD9G":
+      case "5u7ouez48Am":
         Script618();
         break;
-      case "6n0PNJ7zTDX":
+      case "6qugVLts10S":
         Script619();
         break;
-      case "6S06dC64BY9":
+      case "5bGe8QEzHEL":
         Script620();
         break;
-      case "5vTAKw5jr3W":
+      case "5XCf0U0Y3H2":
         Script621();
         break;
-      case "63aUALEi6IN":
+      case "63FXw2lsmes":
         Script622();
         break;
-      case "6MYDiIINJUf":
+      case "6g0ukty6LES":
         Script623();
         break;
-      case "5ohAsMKsqid":
+      case "6OYx3Wx0LAv":
         Script624();
         break;
-      case "65HjCabJQbX":
+      case "6pZKNohDEA8":
         Script625();
         break;
-      case "5e1I0hpIX8N":
+      case "66zJcUWPMfn":
         Script626();
         break;
-      case "6U44K2wUuUV":
+      case "5i9hdXA7MBi":
         Script627();
         break;
-      case "6fWboRKQZbV":
+      case "5p3dYWX5oGI":
         Script628();
         break;
-      case "6aeE5rUZFrV":
+      case "5eZj97XwpJi":
         Script629();
         break;
-      case "5u6R649Mqlo":
+      case "62IyUJnt8L0":
         Script630();
         break;
-      case "5kvquuQZWy8":
+      case "6RMILCuyan3":
         Script631();
         break;
-      case "6TXPzVm4sZq":
+      case "5y3bJMQpby4":
         Script632();
         break;
-      case "6K3pNoh3XVi":
+      case "6Usg8rU3NwA":
         Script633();
         break;
-      case "6Ue9q2TB2Xz":
+      case "6oXlQwbDCIt":
         Script634();
         break;
-      case "5sq06XMQtWH":
+      case "6PRA4rfnvMm":
         Script635();
         break;
-      case "6Z9A62SqEso":
+      case "6GCvO1OIGQp":
         Script636();
         break;
-      case "6kRBv5PZuxP":
+      case "6lkt2UpOrqE":
         Script637();
         break;
-      case "617PoRZcG1E":
+      case "6rPG8gddLzk":
         Script638();
         break;
-      case "5qckpUvFp0I":
+      case "6QYxZKXjq7V":
         Script639();
         break;
-      case "6FqkHT2sV7U":
+      case "616E0Wxqh5L":
         Script640();
         break;
-      case "62AVnuufkDp":
+      case "5jSYFV1BdfC":
         Script641();
         break;
-      case "6Hh1OGUb8eR":
+      case "6iC7ANfL0Ba":
         Script642();
         break;
-      case "5gbvlFPyLoH":
+      case "5hazpCH5BsO":
         Script643();
         break;
-      case "6Xk3RoAeVuj":
+      case "6aKQxz4ORMC":
         Script644();
         break;
-      case "6LHQMvRPtL8":
+      case "6Bq4ykyzjU9":
         Script645();
         break;
-      case "64ffeenP3Uw":
+      case "6G1AnV2RD7Q":
         Script646();
         break;
-      case "5X0SDlao8Qk":
+      case "5mEFwk82ueM":
         Script647();
         break;
-      case "6QnxPd9YGuS":
+      case "5XxmRww8s5n":
         Script648();
         break;
-      case "6fc0VcdNvNK":
+      case "6ClVoY9D8eA":
         Script649();
         break;
-      case "5YXD7v2kbBl":
+      case "6F3bOX9JVRK":
         Script650();
         break;
-      case "6Yibu9qnMQh":
+      case "5ybmIu1Xl7J":
         Script651();
         break;
-      case "6oIXzwr5hmD":
+      case "6ADNx3hdIbq":
         Script652();
         break;
-      case "60yCVhdhGz2":
+      case "61X9IrNzlzH":
         Script653();
         break;
-      case "69LtFtgqyyc":
+      case "5wUGzslXixJ":
         Script654();
         break;
-      case "6lyDGJ60pco":
+      case "5cszra4S6Cp":
         Script655();
         break;
-      case "5zLDczKEOPW":
+      case "6ob4U0P57tp":
         Script656();
         break;
-      case "5Xp2o7slllT":
+      case "6IuMDGS4a94":
         Script657();
         break;
-      case "6i3gGyJqXrf":
+      case "5h7wbV5MlMy":
         Script658();
         break;
-      case "6qfEuRLcyxL":
+      case "6KJhxPVnTHP":
         Script659();
         break;
-      case "5u79BMHbSmo":
+      case "6jGMTryNkjJ":
         Script660();
         break;
-      case "5WZkCVzcAc1":
+      case "624JPz645cO":
         Script661();
         break;
-      case "5ssSXiMNoio":
+      case "60Cpd26iDwq":
         Script662();
         break;
-      case "5Z2anglJQzY":
+      case "6CVXjlanvxL":
         Script663();
         break;
-      case "64e5L7fpcXB":
+      case "652WEms1Yps":
         Script664();
         break;
-      case "5oxyddIE4SL":
+      case "5wK0pmlsDv3":
         Script665();
         break;
-      case "5treTaKq9Io":
+      case "5a1YOyPtHGG":
         Script666();
         break;
-      case "6DHDgCrXEnK":
+      case "5zaNH9jmyH0":
         Script667();
         break;
-      case "5eN62Mg0zhM":
+      case "6B2wCikihPF":
         Script668();
         break;
-      case "6OFTH8ql12Y":
+      case "68xLxE4jYrx":
         Script669();
         break;
-      case "6QjQfU23v0z":
+      case "68KgUtMMjEa":
         Script670();
         break;
-      case "6VqOsBbrjO2":
+      case "6psiOF4U4Fl":
         Script671();
         break;
-      case "6qUvaCV2h79":
+      case "6NfCXuAdt0Y":
         Script672();
         break;
-      case "5dLiyRyzQqu":
+      case "5cANwK0DsxW":
         Script673();
         break;
-      case "6LMjm4MDn2M":
+      case "5Z5MXwaW93k":
         Script674();
         break;
-      case "6ALy8yPUAYt":
+      case "6ogLJQRoddQ":
         Script675();
         break;
-      case "6it1oypTuqH":
+      case "6aLOK1L9Gqu":
         Script676();
         break;
-      case "6R6as1wFu1u":
+      case "6475xy4EXYz":
         Script677();
         break;
-      case "5rjWwWwcsFZ":
+      case "6JhT3ABB7UZ":
         Script678();
         break;
-      case "5cMnAwfnE5Y":
+      case "6IPML1Eoz1Q":
         Script679();
         break;
-      case "6NPHdMHhVk6":
+      case "6OUPNJj3EKN":
         Script680();
         break;
-      case "6jNrgJyD573":
+      case "5bSkygbdwwx":
         Script681();
         break;
-      case "6hdaUGYA2N8":
+      case "6hORwYeLG2E":
         Script682();
         break;
-      case "5q05DVBJe1U":
+      case "6FM9RN9939b":
         Script683();
         break;
-      case "6eVt51mjwn3":
+      case "6ky5QoAZN2Z":
         Script684();
         break;
-      case "5fu77nzdWR6":
+      case "6BD9jI3wsAZ":
         Script685();
         break;
-      case "5w2N3ACfwHg":
+      case "6RJPSsnbMma":
         Script686();
         break;
-      case "5u4DvZx9yBA":
+      case "6SdPOX4DOtB":
         Script687();
         break;
-      case "6cjA5rQYThf":
+      case "6j6eWFzpf2I":
         Script688();
         break;
-      case "6GQpHs0J5IS":
+      case "6mCe9m2sfHi":
         Script689();
         break;
-      case "5eHO3E5C3ls":
+      case "5pj4VDcsB6S":
         Script690();
         break;
-      case "6RVHIpBSakD":
+      case "6bp4liIfwfy":
         Script691();
         break;
-      case "5X0iCoP2zao":
+      case "6LpYCiq3IMe":
         Script692();
         break;
-      case "5eCLPC9E53c":
+      case "6m3Ll5budUq":
         Script693();
         break;
-      case "5hd1XM1M6Wz":
+      case "5p3ZlIgYRyB":
         Script694();
         break;
-      case "5rogCnIYz8Q":
+      case "6oh9ryVQ8PB":
         Script695();
         break;
-      case "5vQnQuHkxki":
+      case "5lbi0SdEn51":
         Script696();
         break;
-      case "69xwssk2s9F":
+      case "6oSKDoUOfm3":
         Script697();
         break;
-      case "5XrRcAhGwVE":
+      case "6MMvsJNsn8Z":
         Script698();
         break;
-      case "6I13NzUnOy9":
+      case "6qfrdRn5ghs":
         Script699();
         break;
-      case "5kW25BZ0d8F":
+      case "5hWxmMKm5k9":
         Script700();
         break;
-      case "5fRBr8ZIXpn":
+      case "5nV5bexLfg3":
         Script701();
         break;
-      case "6BFGrUPzlHS":
+      case "5sSn399HSph":
         Script702();
         break;
-      case "6XTol1hVxYy":
+      case "6NlG35aLzOc":
         Script703();
         break;
-      case "5ocQjUQI4PJ":
+      case "6Qk084Z1eYA":
         Script704();
         break;
-      case "6SJNU3UsJQM":
+      case "5flbd6lbT5M":
         Script705();
         break;
-      case "5zBBqZpyhSr":
+      case "5husSJ2BI6A":
         Script706();
         break;
-      case "5bFoSAzV0lT":
+      case "6JcGcJ3XIT6":
         Script707();
         break;
-      case "6A6L2P2s0Ww":
+      case "681NiaLcGNl":
         Script708();
         break;
-      case "6kRXBvHKRYZ":
+      case "6mkgYgigJ7A":
         Script709();
         break;
-      case "61PyxPiBxKs":
+      case "6bqmIUsdX2C":
         Script710();
         break;
-      case "6IWvNf1FMCM":
+      case "6Ack0VsyNRC":
         Script711();
         break;
-      case "5XJQDJwx31g":
+      case "5m0JVS2PKHq":
         Script712();
         break;
-      case "6fcBxJk7Ccx":
+      case "6OaZdKgsAFn":
         Script713();
         break;
-      case "6g3EWKDhaJJ":
+      case "6OejsW2zqo7":
         Script714();
         break;
-      case "6RBdayBXLW2":
+      case "61395Q3Wfkq":
         Script715();
         break;
-      case "5gu7Ibqwn73":
+      case "5hwcr29BSLr":
         Script716();
         break;
-      case "6dKAm8MJcXX":
+      case "63K76UbtxQp":
         Script717();
         break;
-      case "5lZG1oYgrsv":
+      case "5iSNppIRm2f":
         Script718();
         break;
-      case "5fuFuWlFgxc":
+      case "6o9AJ0IGCOA":
         Script719();
         break;
-      case "65RMhMmUd1z":
+      case "6JllAkBfGmp":
         Script720();
         break;
-      case "5anLyH0jaLa":
+      case "6dpPtjc7zl0":
         Script721();
         break;
-      case "5VSGQrPgq4w":
+      case "5oHer6y3Lbv":
         Script722();
         break;
-      case "5WxmX54vhQG":
+      case "6LLNQ9puD3q":
         Script723();
         break;
-      case "6UNpcjfAmrg":
+      case "69ibiEFRJX7":
         Script724();
         break;
-      case "6ohiE3eku0c":
+      case "6div5frFWyN":
         Script725();
         break;
-      case "688Q38iAPIy":
+      case "6hYaoV0BqiA":
         Script726();
         break;
-      case "69apJsbhOV1":
+      case "65hmmawZDIH":
         Script727();
         break;
-      case "6k6vBkw3CcA":
+      case "6f3cCDVafjD":
         Script728();
         break;
-      case "6h3YtjF8L9x":
+      case "5yI0tkmO5R1":
         Script729();
         break;
-      case "5p9Eq6TausN":
+      case "6hSc12Kgnce":
         Script730();
         break;
-      case "6gMpIsjGpyu":
+      case "5rKDnI0DgPE":
         Script731();
         break;
-      case "5bGWlrqFC07":
+      case "6aDUedSVOfl":
         Script732();
         break;
-      case "6TkhhukUFUY":
+      case "6Uk2v5qzh9G":
         Script733();
         break;
-      case "6ozN52BkH0v":
+      case "5a2SViDdgH1":
         Script734();
         break;
-      case "6jwjmSmvYox":
+      case "6ckmL6DTzAa":
         Script735();
         break;
-      case "6212AL97dUx":
+      case "6HEDKEZ1NUm":
         Script736();
         break;
-      case "6TVz3oTCnri":
+      case "6WSP1UXcKC1":
         Script737();
         break;
-      case "5kVSpxMFRQ4":
+      case "6IXJJHbsUPw":
         Script738();
         break;
-      case "6r38ar95gSZ":
+      case "6SlniUnfzOH":
         Script739();
         break;
-      case "5faqBScilvW":
+      case "6WQ3tTnJqXR":
         Script740();
         break;
-      case "6JuDkjm1d4l":
+      case "6fCIRaRkEiZ":
         Script741();
         break;
-      case "6SlpD2voRoj":
+      case "6oQqbDCxejK":
         Script742();
         break;
-      case "6jzqNYWwyuB":
+      case "6cwhjp2tHyu":
         Script743();
         break;
-      case "6XyEzZ5atgR":
+      case "6Z0m0rYaLQT":
         Script744();
         break;
-      case "5abcTYiXMXL":
+      case "5ykAYwvCqza":
         Script745();
         break;
-      case "6ELX6HmrNkk":
+      case "6cWSxLEML69":
         Script746();
         break;
-      case "5vRmOdgBNg2":
+      case "6jSWtgApNkK":
         Script747();
         break;
-      case "6nCsVQrmUBA":
+      case "5pwRPtKFxGH":
         Script748();
         break;
-      case "6T24SxkVnrF":
+      case "5linEecTPBB":
         Script749();
         break;
-      case "5jmX0UQbN8j":
+      case "6Eha1WdDryT":
         Script750();
         break;
-      case "6cs5xUQcx17":
+      case "6aHZIIz5gDW":
         Script751();
         break;
-      case "6gsGQQLYP2j":
+      case "6SKPPziD0xd":
         Script752();
         break;
-      case "6Su5mDQCGFO":
+      case "6ihqF7qKjb2":
         Script753();
         break;
-      case "5qWxRCWPjIl":
+      case "6nHpvgMkt8i":
         Script754();
         break;
-      case "666o0YQVqiU":
+      case "6T4Rv0S4Jzk":
         Script755();
         break;
-      case "6iThQm7mZYM":
+      case "5WdCUeBIHIm":
         Script756();
         break;
-      case "683IDk9dVv2":
+      case "6dladphVtC3":
         Script757();
         break;
-      case "5kkbPKYVrSm":
+      case "5WsqZGQPVHb":
         Script758();
         break;
-      case "5pfw242sCUc":
+      case "5uUpRTRknIO":
         Script759();
         break;
-      case "6M8GQYMCkHf":
+      case "6DPfBD8oXwY":
         Script760();
         break;
-      case "5jdTg2yeDIZ":
+      case "6hB9wqNxyOK":
         Script761();
         break;
-      case "5mJSB9Bj3Pw":
+      case "65l7oSSGRhs":
         Script762();
         break;
-      case "5il6wS2TAJ5":
+      case "6oSUyzLbGTj":
         Script763();
         break;
-      case "6ZkPQJ1EXHN":
+      case "6RdrpIRx70z":
         Script764();
         break;
-      case "6llyDHhV5lr":
+      case "6Eerjl5agj6":
         Script765();
         break;
-      case "6SSaVNnsOwn":
+      case "6f4hV8rUPki":
         Script766();
         break;
-      case "5xDkiK6YTCl":
+      case "6Os4a8fNpnP":
         Script767();
         break;
-      case "5dke6Q36tMu":
+      case "6UQdaN5GpIm":
         Script768();
         break;
-      case "6KvPZBr0834":
+      case "5t7WOIr09TL":
         Script769();
         break;
-      case "67y7cdgFGA5":
+      case "67OF2X9XV0e":
         Script770();
         break;
-      case "6dO1ecsD36Y":
+      case "6Sg6AsoSpFU":
         Script771();
         break;
-      case "5d5gXiugvzN":
+      case "5c9fQ5EMs0U":
         Script772();
         break;
-      case "6RqTZWSN6o4":
+      case "6S6Vd9A5jgQ":
         Script773();
         break;
-      case "5ojo3hGvtKt":
+      case "5m7dhV59cqF":
         Script774();
         break;
-      case "5qDw24ujC0q":
+      case "5Z2A4XLFRC3":
         Script775();
         break;
-      case "6cDEX1xs0fp":
+      case "690NtfkfWCq":
         Script776();
         break;
-      case "5wE1LTPpeeo":
+      case "6fSJgnZWo2U":
         Script777();
         break;
-      case "6lkuBHfY0H4":
+      case "64pB86QG0xN":
         Script778();
         break;
-      case "6KEbj6yNEFS":
+      case "6pCK8sY5aQA":
         Script779();
         break;
-      case "5y9xrjlJfuc":
+      case "6394xFJzSyk":
         Script780();
         break;
-      case "67Rua8c8ALd":
+      case "60tWKP1INOZ":
         Script781();
         break;
-      case "6qYLXeAwOva":
+      case "5kkWWEXGcp7":
         Script782();
         break;
-      case "6bA5Nr38Uwz":
+      case "5V8nmiuzTf5":
         Script783();
         break;
-      case "6LzWDRU5INI":
+      case "6Ftk4lBGfrH":
         Script784();
         break;
-      case "5zmbwDU58Y3":
+      case "6LpIqJ7veDh":
         Script785();
         break;
-      case "6FamsBXOpUw":
+      case "6Ci1xFisqwS":
         Script786();
         break;
-      case "66ceNBPzkhC":
+      case "5nBO8sktyEu":
         Script787();
         break;
-      case "6G71VcOjw7i":
+      case "688bR9puuIJ":
         Script788();
         break;
-      case "5zqnP9oa6T8":
+      case "6LdXaDlWQ6B":
         Script789();
         break;
-      case "5rpTqFWVOQt":
+      case "69CHkcAmaBt":
         Script790();
         break;
-      case "5gU2GosIkYJ":
+      case "6bWQcISXEEf":
         Script791();
         break;
-      case "6aI6oCHt9cd":
+      case "6oNku6vXwOT":
         Script792();
         break;
-      case "6IQMSwWunvp":
+      case "5aDSP6YeQbe":
         Script793();
         break;
-      case "6hwmNyUH6Jp":
+      case "6IUvgQAZzFE":
         Script794();
         break;
-      case "6DIp6yTiCDF":
+      case "6GJxnlP9Hkl":
         Script795();
         break;
-      case "6YdssLqc77p":
+      case "5kTmVSJ08bL":
         Script796();
         break;
-      case "60nuElSikJX":
+      case "5i7rslqAcnr":
         Script797();
         break;
-      case "6EVUWCtMDsW":
+      case "5joYM8PsGdP":
         Script798();
         break;
-      case "6CiMPcXTgQC":
+      case "61iRHVjWRGl":
         Script799();
         break;
-      case "6CZ4wFlU5DP":
+      case "69EXjCHy8fF":
         Script800();
         break;
-      case "6lFeZgavMKw":
+      case "5pcD6URyv93":
         Script801();
         break;
-      case "6D17cnhflHk":
+      case "5uW8yBjD9XE":
         Script802();
         break;
-      case "62IXYH0sFYx":
+      case "62YBMZpDlns":
         Script803();
         break;
-      case "5sX93HIqqlb":
+      case "6K9ZZXCVY95":
         Script804();
         break;
-      case "6Ii6uqJ338I":
+      case "6DJcALp4KCY":
         Script805();
         break;
-      case "6Kg7EsVgunH":
+      case "6l4fDtXzuF9":
         Script806();
         break;
-      case "5kuedbbensS":
+      case "675bhib4Hoo":
         Script807();
         break;
-      case "65qZjv6vLV2":
+      case "6du80TKJlPK":
         Script808();
         break;
-      case "5uNqpXaqekG":
+      case "6pjtF5p89KX":
         Script809();
         break;
-      case "5ojba4INgKd":
+      case "5k4PFFr2cIb":
         Script810();
         break;
-      case "6iFraXHCkgN":
+      case "5nciTtgZcxs":
         Script811();
         break;
-      case "6IUjGHmtv1T":
+      case "62Jtd4FWG1y":
         Script812();
         break;
-      case "5gQxFUlY60X":
+      case "5qOqjEkOYRE":
         Script813();
         break;
-      case "6gzkQiOs06l":
+      case "6nQOo8Ckp3L":
         Script814();
         break;
-      case "5ZoTyLAQGIG":
+      case "6L2W4yDJg5c":
         Script815();
         break;
-      case "6iiZizkfKmo":
+      case "5w5NkIOHmF9":
         Script816();
         break;
-      case "5o0VVJvs6xN":
+      case "6juX7O6KYrf":
         Script817();
         break;
-      case "6mWk5nD2gMV":
+      case "5rfdkZVUHz5":
         Script818();
         break;
-      case "5m3diYmuOG7":
+      case "6kNPtUqDf96":
         Script819();
         break;
-      case "6oz5Srho9zC":
+      case "5dvqZMyTyv9":
         Script820();
         break;
-      case "62CVbJu0LjG":
+      case "6pVbSAJVWNo":
         Script821();
         break;
-      case "6AFZgTH3O4u":
+      case "6CPjMA0lY58":
         Script822();
         break;
-      case "6Y4lS0ZNCJT":
+      case "5nCwTxvfcnv":
         Script823();
         break;
-      case "6PaV0KDPPVl":
+      case "65AKmSHdRNZ":
         Script824();
         break;
-      case "63PKWg3UeeI":
+      case "5rAQIYzr14O":
         Script825();
         break;
-      case "6QClvuR3MQm":
+      case "6MIzqitOJJ9":
         Script826();
         break;
-      case "6Fl5yUmegvz":
+      case "5z58c3fL65C":
         Script827();
         break;
-      case "5gWnARXJOjG":
+      case "69y5T1B7uSR":
         Script828();
         break;
-      case "6UejHj0OJjR":
+      case "6kyeCo8o3YC":
         Script829();
         break;
-      case "5lUqtIqVNof":
+      case "5vKorD5w0sr":
         Script830();
         break;
-      case "5s7sey0stIC":
+      case "6UJlaIthjnY":
         Script831();
         break;
-      case "6aygg8EzKP6":
+      case "6jzlgKusVXW":
         Script832();
         break;
-      case "6Ba8il0tJtK":
+      case "6B3RgMkO8m2":
         Script833();
         break;
-      case "5y0bYY7y3Q9":
+      case "6RL83m1C7Jf":
         Script834();
         break;
-      case "5i6ufe00nRJ":
+      case "5ttC65SsNrt":
         Script835();
         break;
-      case "6rTYgHYRuR0":
+      case "6mnJPWvVBGy":
         Script836();
         break;
-      case "5ZZE0lhrnIh":
+      case "5uGQfZcHadS":
         Script837();
         break;
-      case "6cVlfcD5ro0":
+      case "5l96h0tFgCB":
         Script838();
         break;
-      case "5wK4aX56JVo":
+      case "6dOHe3j6oaJ":
         Script839();
         break;
-      case "6IJj3y9QSKp":
+      case "5YmJ50eo6km":
         Script840();
         break;
-      case "6c8aqWkgsNr":
+      case "6AimfSLZel4":
         Script841();
         break;
-      case "6AebqHeR9n8":
+      case "5n6niPWj8FA":
         Script842();
         break;
-      case "6cYfvozXvdL":
+      case "5ncuQoPNqB5":
         Script843();
         break;
-      case "696TVjCX16q":
+      case "6ZfFz4gSYvo":
         Script844();
         break;
-      case "6IBT512KoiX":
+      case "6mJJOF97R2q":
         Script845();
         break;
-      case "6LWX6h31Yke":
+      case "5WENrEqxYAH":
         Script846();
         break;
-      case "5ydWaPWnKh5":
+      case "5vbmVmIzShl":
         Script847();
         break;
-      case "68LsvJ9jaua":
+      case "63dhSGe4bRo":
         Script848();
         break;
-      case "5n1qUBaZjBA":
+      case "6f7t4fnd5hP":
         Script849();
         break;
-      case "63qRBOzR30q":
+      case "6RHgUg6B0fg":
         Script850();
         break;
-      case "6ByU8k1qrnx":
+      case "5jXf3pluNkn":
         Script851();
         break;
-      case "5lXVSckbss9":
+      case "6gvdUkxBJj2":
         Script852();
         break;
-      case "6GJgNDVa5LC":
+      case "5crX8wuDjOB":
         Script853();
         break;
-      case "5YWYWBVbQdT":
+      case "5qZRfdROs1u":
         Script854();
         break;
-      case "5pYsL2xpZsQ":
+      case "67V1EnCimZG":
         Script855();
         break;
-      case "6ToBBJkEYB9":
+      case "6d4AYcmyrTj":
         Script856();
         break;
-      case "6Ge2QdBpBE6":
+      case "6f3tNtc780p":
         Script857();
         break;
-      case "5Y2MDoHdwOe":
+      case "5kspmld1mfp":
         Script858();
         break;
-      case "5VHD0F5kyrg":
+      case "5ZQtVkFwL1K":
         Script859();
         break;
-      case "6Dlxu3fVmIz":
+      case "5xO0uaU104V":
         Script860();
         break;
-      case "6Q5Gmfkj4Xa":
+      case "615TVpkUjh8":
         Script861();
         break;
-      case "5uzvxNrivSo":
+      case "62KrH5VPsFc":
         Script862();
         break;
-      case "6dsEENkDNc4":
+      case "6adBFtrYhEh":
         Script863();
         break;
-      case "6ilzAqCRuOW":
+      case "5on9AFIFW2Y":
         Script864();
         break;
-      case "6pThRFp1PSu":
+      case "6mPFkHI9Tt0":
         Script865();
         break;
-      case "6899VtLQ35b":
+      case "6Hhj9tWevck":
         Script866();
         break;
-      case "5VZ23YNo8Zw":
+      case "5UuhTehBo4j":
         Script867();
         break;
-      case "6T0jjBd07Gy":
+      case "5qXT9PA5Ud7":
         Script868();
         break;
-      case "5XmUYjzM4HH":
+      case "6it06qqzsIK":
         Script869();
         break;
-      case "5mQwWudJXzK":
+      case "5uhGVxtFyId":
         Script870();
         break;
-      case "6V8nFzI9lWF":
+      case "6R7qedks6Jb":
         Script871();
         break;
-      case "6bBosZEuBDo":
+      case "5X7KO7sNotr":
         Script872();
         break;
-      case "6IOzqe9gYJX":
+      case "6Ch3DAQ39Bz":
         Script873();
         break;
-      case "5trB4pA6nxu":
+      case "60KLK09Usz3":
         Script874();
         break;
-      case "6KgPFXuZkpC":
+      case "5YJpSOxpffh":
         Script875();
         break;
-      case "5cPTkfo9BWB":
+      case "6Zyu45b0WxW":
         Script876();
         break;
-      case "6hLlihptp4R":
+      case "5mDzwZhpSNu":
         Script877();
         break;
-      case "6OMpS3J5FVE":
+      case "5WhhZuLe2sC":
         Script878();
         break;
-      case "6P3Ne3mkQNR":
+      case "6Rb0f7do7vK":
         Script879();
         break;
-      case "6nVcPADiGIE":
+      case "5bgijUNP5Ec":
         Script880();
         break;
-      case "5fHlk99kmED":
+      case "6JkfuC5YhXH":
         Script881();
         break;
-      case "6bnGGuvas7C":
+      case "6cOXNFcgldL":
         Script882();
         break;
-      case "6e19ObCzGvx":
+      case "5Vxk0I9NNUv":
         Script883();
         break;
-      case "6eGjGBUbjvg":
+      case "5cDUBoI12tx":
         Script884();
         break;
-      case "6ZGBTOsLit0":
+      case "5iZdL9QLnc3":
         Script885();
         break;
-      case "5czij2Q2PDM":
+      case "5wyKF1Eqx10":
         Script886();
         break;
-      case "6DoXAO3QwrZ":
+      case "5reQuxOQ1ox":
         Script887();
         break;
-      case "6EchEahot4i":
+      case "5bSkpjHGVOy":
         Script888();
         break;
-      case "5rBNx6z42PU":
+      case "5mH2fyYJuni":
         Script889();
         break;
-      case "6dzU9CBo09F":
+      case "6hssLSBUtRh":
         Script890();
         break;
-      case "5t1UGEtTHV8":
+      case "5ue0UaEHKJ1":
         Script891();
         break;
-      case "5eoWRABe4ad":
+      case "6Fmt07hwynA":
         Script892();
         break;
-      case "6bnpHnabnPC":
+      case "6M9yzKKSvgN":
         Script893();
         break;
-      case "6B3P9DKFKhR":
+      case "6TWAXJwlT03":
         Script894();
         break;
-      case "69o4IyztKu9":
+      case "6ouWZ7Rs9Ws":
         Script895();
         break;
-      case "5iN1Whm3hZo":
+      case "6qfzjYGsUj4":
         Script896();
         break;
-      case "6TAdci9Y8YS":
+      case "6Re4RprYahl":
         Script897();
         break;
-      case "6QvxO4K0N3U":
+      case "6Xo6Y0CSSwH":
         Script898();
         break;
-      case "5b2mM0JsXEk":
+      case "5ZjZrfdsLix":
         Script899();
         break;
-      case "6h79xyxT0wR":
+      case "5x4sa5fgZQH":
         Script900();
         break;
-      case "6PWgC0Q7fX2":
+      case "5dhhh2YdF0X":
         Script901();
         break;
-      case "6ivhfg5rawh":
+      case "5sF8NP1USaK":
         Script902();
         break;
-      case "5VFkwOB7V1V":
+      case "5moAWWC1qZk":
         Script903();
         break;
-      case "6IGSWbhTeY8":
+      case "5c18pqX7CpK":
         Script904();
         break;
-      case "5rsKLCqvBiJ":
+      case "5bIiYFpPrQZ":
         Script905();
         break;
-      case "6k59QwbkUM9":
+      case "60XMBOpyr0O":
         Script906();
         break;
-      case "5WeFHz15mHq":
+      case "6ZCXNqE2O9P":
         Script907();
         break;
-      case "6CHFUvyqwqB":
+      case "5ubZoKvBNAc":
         Script908();
         break;
-      case "5eLvqOucifQ":
+      case "6TaWjohpw1y":
         Script909();
         break;
-      case "60BV0zgLQOG":
+      case "5oOEzS8q8DH":
         Script910();
         break;
-      case "6PgoZFE7dqI":
+      case "6FYDjXme6V5":
         Script911();
         break;
-      case "6prwFCqMr6a":
+      case "6Gf9y8uAdPy":
         Script912();
         break;
-      case "6eXGMpNrRnL":
+      case "5XsPQyseRg2":
         Script913();
         break;
-      case "636cOX8rBwB":
+      case "5gThARu7DGz":
         Script914();
         break;
-      case "5wlcqFmicTE":
+      case "6SooJgtZljO":
         Script915();
         break;
-      case "5gIFPvwTLMX":
+      case "6Fnr9ZIvkGX":
         Script916();
         break;
-      case "6l8ZpDPQRdu":
+      case "65Ws1uDqr25":
         Script917();
         break;
-      case "6U3wd9BcCc7":
+      case "6TWgGGHNgxD":
         Script918();
         break;
-      case "5zXAJHL1WJD":
+      case "6T8WxtzlGwF":
         Script919();
         break;
-      case "6pwMugWSJmI":
+      case "5nN2PfKGl94":
         Script920();
         break;
-      case "5szG651HwKB":
+      case "6an9eWeKee8":
         Script921();
         break;
-      case "5naDjWiAyzL":
+      case "61eJftqVERo":
         Script922();
         break;
-      case "5d7B2OFrVdH":
+      case "67DYur5lFH3":
         Script923();
         break;
-      case "5vj1mzZ6Mrf":
+      case "6nMtKLHdorx":
         Script924();
         break;
-      case "6WZ1BdOTKa4":
+      case "5Wzjit7EUjh":
         Script925();
         break;
-      case "5qBnGAYsvQu":
+      case "6ezcccjutqS":
         Script926();
+        break;
+      case "5WC8P5J3QAt":
+        Script927();
+        break;
+      case "6cX7ljshwhG":
+        Script928();
+        break;
+      case "5rG3rzpGDRA":
+        Script929();
+        break;
+      case "61Avcpbb9Sp":
+        Script930();
+        break;
+      case "6XfLFpWJ0wl":
+        Script931();
+        break;
+      case "5bIXvU4pS18":
+        Script932();
+        break;
+      case "5uMuNBHMPdc":
+        Script933();
+        break;
+      case "6GtIlGGgbaH":
+        Script934();
+        break;
+      case "5mjxYKVN5L5":
+        Script935();
+        break;
+      case "6S6gEuwLdrl":
+        Script936();
+        break;
+      case "5iiiYNyItSR":
+        Script937();
+        break;
+      case "5wpsWbDq1Wn":
+        Script938();
+        break;
+      case "6duFMLMWCOJ":
+        Script939();
+        break;
+      case "6gkcn3lvIix":
+        Script940();
+        break;
+      case "5rUPEaoUCz7":
+        Script941();
+        break;
+      case "6UH6SkyRVBn":
+        Script942();
+        break;
+      case "6E3Rv8dANdD":
+        Script943();
+        break;
+      case "5ZYun6Sjf3s":
+        Script944();
+        break;
+      case "63RNB5W8hIU":
+        Script945();
+        break;
+      case "6ahtwH577B4":
+        Script946();
+        break;
+      case "6nJobQ1OgG8":
+        Script947();
+        break;
+      case "6VfLlks4lXq":
+        Script948();
+        break;
+      case "6iP1c6j7FQ6":
+        Script949();
+        break;
+      case "5mzn7aakJIM":
+        Script950();
+        break;
+      case "69QurVTqh2i":
+        Script951();
+        break;
+      case "6FjrAER7r6J":
+        Script952();
+        break;
+      case "5ryGjtN6V6M":
+        Script953();
+        break;
+      case "64oidWhq2K9":
+        Script954();
+        break;
+      case "5rqr9zG8bNP":
+        Script955();
+        break;
+      case "6V9U8xunXkF":
+        Script956();
+        break;
+      case "6Lb4JGpk22p":
+        Script957();
+        break;
+      case "5pAXNHcOg0B":
+        Script958();
+        break;
+      case "6IHX6ntzrcd":
+        Script959();
+        break;
+      case "6aDnwF6Rjh1":
+        Script960();
+        break;
+      case "6Xb4NUsxs6i":
+        Script961();
+        break;
+      case "5mBEnxAQFYb":
+        Script962();
+        break;
+      case "5hcAjI4q9J9":
+        Script963();
+        break;
+      case "5mvC7vo1MKN":
+        Script964();
+        break;
+      case "6HHRQuyzZay":
+        Script965();
+        break;
+      case "6LmPoQgciNA":
+        Script966();
+        break;
+      case "6flR1bNTaH6":
+        Script967();
+        break;
+      case "6KKnNzfTTF0":
+        Script968();
+        break;
+      case "60CGRAXihkf":
+        Script969();
+        break;
+      case "67TxDUCthjm":
+        Script970();
+        break;
+      case "5oj8xnJilAc":
+        Script971();
+        break;
+      case "6klRpjQ1jlG":
+        Script972();
+        break;
+      case "63b51QQ5lAq":
+        Script973();
+        break;
+      case "6iSlwuCGFdY":
+        Script974();
+        break;
+      case "5pWZGlWvkiX":
+        Script975();
+        break;
+      case "5z4QLznQK68":
+        Script976();
+        break;
+      case "6QIWx3L4nMX":
+        Script977();
+        break;
+      case "6lFwnoVHlyo":
+        Script978();
+        break;
+      case "66nsFa5GLNd":
+        Script979();
+        break;
+      case "6irYn1jZ3fM":
+        Script980();
+        break;
+      case "5jgjHTev8LD":
+        Script981();
+        break;
+      case "6L4btm2FJVH":
+        Script982();
+        break;
+      case "6Nn0rnvzuPy":
+        Script983();
+        break;
+      case "6CsotIdPwHk":
+        Script984();
+        break;
+      case "63N2cr9ajiG":
+        Script985();
+        break;
+      case "5ZnkMD45exB":
+        Script986();
+        break;
+      case "6XtGwcCjpOJ":
+        Script987();
+        break;
+      case "6O4uG3y5jQL":
+        Script988();
+        break;
+      case "6ehpNmhaxYZ":
+        Script989();
+        break;
+      case "5bxHHEilufB":
+        Script990();
+        break;
+      case "5WN5za9OlIP":
+        Script991();
+        break;
+      case "6IWvEXqhDCD":
+        Script992();
+        break;
+      case "5YmTNKRC0bK":
+        Script993();
+        break;
+      case "5c77vnpIWog":
+        Script994();
+        break;
+      case "5hSaC1swMob":
+        Script995();
+        break;
+      case "6qIcl6QqncU":
+        Script996();
+        break;
+      case "6WsTdAPkm1J":
+        Script997();
+        break;
+      case "5zuaJ7DiPmd":
+        Script998();
+        break;
+      case "6QgLtItFSGs":
+        Script999();
+        break;
+      case "5h8f1DEi0N2":
+        Script1000();
+        break;
+      case "6C8eUaGpJJY":
+        Script1001();
+        break;
+      case "6IFf2ZFaFlm":
+        Script1002();
+        break;
+      case "6NybYs6OndI":
+        Script1003();
+        break;
+      case "6UXPE3mmGgh":
+        Script1004();
+        break;
+      case "6AltzKZdexo":
+        Script1005();
+        break;
+      case "6JcZvnT0RNe":
+        Script1006();
+        break;
+      case "6NAtQ5v2izi":
+        Script1007();
+        break;
+      case "6KOf94EMKnB":
+        Script1008();
+        break;
+      case "61hKwMNw1mi":
+        Script1009();
+        break;
+      case "5XL4ju5rOAC":
+        Script1010();
+        break;
+      case "5gMPOrY8MrV":
+        Script1011();
+        break;
+      case "5psgXdd2CwQ":
+        Script1012();
+        break;
+      case "69mzWUJf0BI":
+        Script1013();
+        break;
+      case "5rK86eatgDV":
+        Script1014();
+        break;
+      case "6E9A5JCLwmA":
+        Script1015();
+        break;
+      case "5dmyPuSw4Yk":
+        Script1016();
+        break;
+      case "6ProeW1gdQs":
+        Script1017();
+        break;
+      case "5r7T7wVZw3K":
+        Script1018();
+        break;
+      case "6qDxJEaTwIt":
+        Script1019();
+        break;
+      case "6kyTHM20BEM":
+        Script1020();
+        break;
+      case "62LlOeRoPXi":
+        Script1021();
+        break;
+      case "5npW2YXYeWg":
+        Script1022();
+        break;
+      case "5dcxfaXBqtG":
+        Script1023();
+        break;
+      case "5nEhxawfSz0":
+        Script1024();
+        break;
+      case "6Wd7URdazeG":
+        Script1025();
+        break;
+      case "6nC1aOrMfUY":
+        Script1026();
+        break;
+      case "5ZPP66bcvAw":
+        Script1027();
+        break;
+      case "5lKjIdPVabK":
+        Script1028();
+        break;
+      case "6mWaiAuin67":
+        Script1029();
+        break;
+      case "5qHCaQnxptB":
+        Script1030();
+        break;
+      case "6Wmg6mRAHJ7":
+        Script1031();
+        break;
+      case "6MhpE0P6Aqt":
+        Script1032();
+        break;
+      case "5t3kzrZf8sN":
+        Script1033();
+        break;
+      case "6Vu9RvSGP1L":
+        Script1034();
+        break;
+      case "5yhyB8rfpgu":
+        Script1035();
+        break;
+      case "5wNBettQC2E":
+        Script1036();
+        break;
+      case "6U9ZR7sNsj6":
+        Script1037();
+        break;
+      case "5oaVhn7r2yc":
+        Script1038();
+        break;
+      case "6CT7hgjUoWW":
+        Script1039();
+        break;
+      case "652RZowRKhn":
+        Script1040();
+        break;
+      case "6mPeQQyUNFh":
+        Script1041();
+        break;
+      case "6KtaCR6ls4o":
+        Script1042();
+        break;
+      case "662Y8QNr6dP":
+        Script1043();
+        break;
+      case "6HbgaR16d55":
+        Script1044();
+        break;
+      case "64a2NqEFRgp":
+        Script1045();
+        break;
+      case "6RhqyS4xFYh":
+        Script1046();
+        break;
+      case "5r6s0sEfGHr":
+        Script1047();
+        break;
+      case "5xqOWQKnrCt":
+        Script1048();
+        break;
+      case "5l1QzPWgNnY":
+        Script1049();
+        break;
+      case "6HZoIGG7Yr5":
+        Script1050();
+        break;
+      case "6pz5PRwY374":
+        Script1051();
+        break;
+      case "6jWI0Pu7aHV":
+        Script1052();
+        break;
+      case "5nxn3xCxO4r":
+        Script1053();
+        break;
+      case "5vDx4MFbpDH":
+        Script1054();
+        break;
+      case "5oqor0iLeP0":
+        Script1055();
+        break;
+      case "6UVs9h7Pndk":
+        Script1056();
+        break;
+      case "5o1KpGD246e":
+        Script1057();
+        break;
+      case "6cpQZEof5hG":
+        Script1058();
+        break;
+      case "6dBajAbpDYK":
+        Script1059();
+        break;
+      case "6esGDrxVFqV":
+        Script1060();
+        break;
+      case "6mIpyAFtduK":
+        Script1061();
+        break;
+      case "5ka9uvU4jg1":
+        Script1062();
+        break;
+      case "6HaoQA4mvT0":
+        Script1063();
+        break;
+      case "6NSBYzwB2ng":
+        Script1064();
+        break;
+      case "5q4VofBIzIw":
+        Script1065();
+        break;
+      case "61FMGJOqDgs":
+        Script1066();
+        break;
+      case "6og3tTHou6E":
+        Script1067();
+        break;
+      case "6fmpgqSLitb":
+        Script1068();
+        break;
+      case "62ooom53XBY":
+        Script1069();
+        break;
+      case "6BJYOU3q1PR":
+        Script1070();
+        break;
+      case "5eeiE5rREjz":
+        Script1071();
+        break;
+      case "5Z895bpBpLD":
+        Script1072();
+        break;
+      case "5bGIDjkUIBY":
+        Script1073();
+        break;
+      case "60zYgVLgOGY":
+        Script1074();
+        break;
+      case "6MFBoohxGxx":
+        Script1075();
+        break;
+      case "67q5UFkpH9X":
+        Script1076();
+        break;
+      case "6K04sW3jnOM":
+        Script1077();
+        break;
+      case "6Qa5QJBGBhf":
+        Script1078();
+        break;
+      case "61LLmQMruCR":
+        Script1079();
+        break;
+      case "6AIZEPQvIFF":
+        Script1080();
+        break;
+      case "65YIDu8a2KJ":
+        Script1081();
+        break;
+      case "6QucVw2Lat8":
+        Script1082();
+        break;
+      case "5chz573U8X8":
+        Script1083();
+        break;
+      case "6YgT7aAfFRP":
+        Script1084();
+        break;
+      case "5g8054eovz9":
+        Script1085();
+        break;
+      case "5nUYBGeCOU9":
+        Script1086();
+        break;
+      case "6qgEHOnnfLZ":
+        Script1087();
+        break;
+      case "5jFEjAb1s9v":
+        Script1088();
+        break;
+      case "6E2UR8G0W0S":
+        Script1089();
+        break;
+      case "69Ii8cA0EPi":
+        Script1090();
+        break;
+      case "5YJ44EqThJT":
+        Script1091();
+        break;
+      case "5jivIFlPmiE":
+        Script1092();
+        break;
+      case "5ohksfGCEJV":
+        Script1093();
+        break;
+      case "5aYmKmht8iK":
+        Script1094();
+        break;
+      case "5gzzBnz7chT":
+        Script1095();
+        break;
+      case "6TMoF57enYg":
+        Script1096();
+        break;
+      case "6AMpQ7Ng4EO":
+        Script1097();
+        break;
+      case "5r9bwhzLybQ":
+        Script1098();
+        break;
+      case "5nvjqzf7Jw4":
+        Script1099();
+        break;
+      case "6n0NfguP632":
+        Script1100();
+        break;
+      case "65xzDIO43x8":
+        Script1101();
+        break;
+      case "5WCgqt6TDJ4":
+        Script1102();
+        break;
+      case "6cUSheeRrLm":
+        Script1103();
+        break;
+      case "5Wsh1WNFfXS":
+        Script1104();
+        break;
+      case "6peZlVHpGnD":
+        Script1105();
+        break;
+      case "6bxO47knOtH":
+        Script1106();
+        break;
+      case "6mPlGqXHuai":
+        Script1107();
+        break;
+      case "5XLspBdQInn":
+        Script1108();
+        break;
+      case "661ckDVnvcW":
+        Script1109();
+        break;
+      case "5l7iglk2PBK":
+        Script1110();
+        break;
+      case "69EvMUKz3tY":
+        Script1111();
+        break;
+      case "6ebEg1zuIcH":
+        Script1112();
+        break;
+      case "6DGmhTd30Xz":
+        Script1113();
+        break;
+      case "6ESG7sFQhtr":
+        Script1114();
+        break;
+      case "5oMRSQEpRvF":
+        Script1115();
+        break;
+      case "6VbVs7gQhrD":
+        Script1116();
+        break;
+      case "6OhWZnfCOQh":
+        Script1117();
+        break;
+      case "5jqSio0Gg0o":
+        Script1118();
+        break;
+      case "63MtkY0cT15":
+        Script1119();
+        break;
+      case "65RMwYDBAIM":
+        Script1120();
+        break;
+      case "6dp6tVoJNfP":
+        Script1121();
+        break;
+      case "6lF2iceHBvV":
+        Script1122();
+        break;
+      case "6cScnRhJQhW":
+        Script1123();
+        break;
+      case "5ZQmlnvMpzF":
+        Script1124();
+        break;
+      case "6RB5TJLwleX":
+        Script1125();
+        break;
+      case "68t9eBqEyQc":
+        Script1126();
+        break;
+      case "6pX2jC1mMQb":
+        Script1127();
+        break;
+      case "69iGpglwRiN":
+        Script1128();
+        break;
+      case "5WmyZ55iNmo":
+        Script1129();
+        break;
+      case "6InpbYbDpl4":
+        Script1130();
+        break;
+      case "5v4JcQOXWBU":
+        Script1131();
+        break;
+      case "5tOrghAvgFk":
+        Script1132();
+        break;
+      case "6lN6FN9QwNA":
+        Script1133();
+        break;
+      case "5x5kdBkGeEe":
+        Script1134();
+        break;
+      case "5xn5wGDlKGB":
+        Script1135();
+        break;
+      case "5eNRdd6X95Y":
+        Script1136();
+        break;
+      case "6Y2kravO7SJ":
+        Script1137();
+        break;
+      case "60have4kqkC":
+        Script1138();
+        break;
+      case "6FMDAGLsBgQ":
+        Script1139();
+        break;
+      case "6gwUwuUFo93":
+        Script1140();
+        break;
+      case "5ap2WT6U27k":
+        Script1141();
+        break;
+      case "6AHoVrZOTBW":
+        Script1142();
+        break;
+      case "6dm7FjUJEoz":
+        Script1143();
+        break;
+      case "6oBiduJLvKY":
+        Script1144();
+        break;
+      case "6VEeuTGAwkO":
+        Script1145();
+        break;
+      case "5k8HuEB1YQG":
+        Script1146();
+        break;
+      case "6XztnTIQw5x":
+        Script1147();
+        break;
+      case "5aoZop6ZjO2":
+        Script1148();
+        break;
+      case "5cyVGzZLbuN":
+        Script1149();
+        break;
+      case "6Jpg62RhWL6":
+        Script1150();
+        break;
+      case "6fhRLYCmRUs":
+        Script1151();
+        break;
+      case "5khIkzVfy8z":
+        Script1152();
+        break;
+      case "5VVYTvdeDDf":
+        Script1153();
+        break;
+      case "6VvlfHIXzXm":
+        Script1154();
+        break;
+      case "5qdC67B6PqK":
+        Script1155();
+        break;
+      case "6ExuveKIbBl":
+        Script1156();
+        break;
+      case "6Gi5lGBzuqy":
+        Script1157();
+        break;
+      case "6JiqS3NAFp3":
+        Script1158();
+        break;
+      case "63tihZAjsvS":
+        Script1159();
+        break;
+      case "5xLSyw2yErv":
+        Script1160();
+        break;
+      case "66M8zIQ5HGR":
+        Script1161();
+        break;
+      case "6SCerVGZ8I1":
+        Script1162();
+        break;
+      case "6iHLXk0FCCv":
+        Script1163();
+        break;
+      case "6PgliRWKWv4":
+        Script1164();
+        break;
+      case "5zjdA58LYss":
+        Script1165();
+        break;
+      case "6nvVCdCWCia":
+        Script1166();
+        break;
+      case "5gM6aHv8Fpu":
+        Script1167();
+        break;
+      case "6Qbj0WIfQxi":
+        Script1168();
+        break;
+      case "5gXUAk1CPTQ":
+        Script1169();
+        break;
+      case "6QK9NRBXVnS":
+        Script1170();
+        break;
+      case "65a4PHxBQY9":
+        Script1171();
+        break;
+      case "6ecMmHR8OqG":
+        Script1172();
+        break;
+      case "65TidpBjfdF":
+        Script1173();
+        break;
+      case "6FQ3UN71crZ":
+        Script1174();
+        break;
+      case "6ArgxAA0F9t":
+        Script1175();
+        break;
+      case "6hWvvdguOs4":
+        Script1176();
+        break;
+      case "6WsRJXumkWH":
+        Script1177();
+        break;
+      case "69BCdisknGV":
+        Script1178();
+        break;
+      case "6Z4FJBDKyJ4":
+        Script1179();
+        break;
+      case "6GXB9VOpCMP":
+        Script1180();
+        break;
+      case "63t2K0GNZ84":
+        Script1181();
+        break;
+      case "6aLCoRtiVaL":
+        Script1182();
+        break;
+      case "5xxyvXhAK2x":
+        Script1183();
+        break;
+      case "6IIr5J2b4tu":
+        Script1184();
+        break;
+      case "6nkGyjtippo":
+        Script1185();
+        break;
+      case "6SjFhlZktEv":
+        Script1186();
+        break;
+      case "6VAngqVaBQk":
+        Script1187();
+        break;
+      case "5yAurwbeaI9":
+        Script1188();
+        break;
+      case "60IAAFV1SDZ":
+        Script1189();
+        break;
+      case "5XYYyhAXcK0":
+        Script1190();
+        break;
+      case "5pp8mSavPfa":
+        Script1191();
+        break;
+      case "5aqUXVlgoHu":
+        Script1192();
+        break;
+      case "6p7040ItNqq":
+        Script1193();
+        break;
+      case "6neht7dGNLd":
+        Script1194();
+        break;
+      case "6nzBoMwkGHG":
+        Script1195();
+        break;
+      case "6qEvZb5wJnX":
+        Script1196();
+        break;
+      case "6QDcgx2uG7N":
+        Script1197();
+        break;
+      case "6gxaZuZDsCV":
+        Script1198();
+        break;
+      case "6icyy64rTwu":
+        Script1199();
+        break;
+      case "6VhSlBjZbEq":
+        Script1200();
         break;
   }
 }
@@ -2874,16 +3696,17 @@ audio.volume = 0.8;
 
 function Script12()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -2908,95 +3731,113 @@ audio.play();
 
 function Script14()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script15()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script16()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.1;
+audio.src="dan.mp3";
+audio.load();
+audio.play();
 }
 
 function Script17()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.2;
+audio.volume = 0.0;
 }
 
 function Script18()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.3;
+audio.volume = 0.1;
 }
 
 function Script19()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.4;
+audio.volume = 0.2;
 }
 
 function Script20()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.5;
+audio.volume = 0.3;
 }
 
 function Script21()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.6;
+audio.volume = 0.4;
 }
 
 function Script22()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.7;
+audio.volume = 0.5;
 }
 
 function Script23()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.8;
+audio.volume = 0.6;
 }
 
 function Script24()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.7;
 }
 
 function Script25()
 {
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script26()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -3012,113 +3853,113 @@ audio.play();
 
 }
 
-function Script26()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
 function Script27()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script28()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.1;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script29()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.2;
+audio.src="dan.mp3";
+audio.load();
+audio.play();
 }
 
 function Script30()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.3;
+audio.volume = 0.0;
 }
 
 function Script31()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.4;
+audio.volume = 0.1;
 }
 
 function Script32()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.5;
+audio.volume = 0.2;
 }
 
 function Script33()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.6;
+audio.volume = 0.3;
 }
 
 function Script34()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.7;
+audio.volume = 0.4;
 }
 
 function Script35()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.8;
+audio.volume = 0.5;
 }
 
 function Script36()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.6;
 }
 
 function Script37()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.7;
 }
 
 function Script38()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script39()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -3135,7 +3976,41 @@ audio.play();
 
 }
 
-function Script39()
+function Script40()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script41()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script42()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -3144,70 +4019,70 @@ audio.load();
 audio.play();
 }
 
-function Script40()
+function Script43()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script41()
+function Script44()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script42()
+function Script45()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script43()
+function Script46()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script44()
+function Script47()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script45()
+function Script48()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script46()
+function Script49()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script47()
+function Script50()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script48()
+function Script51()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script49()
+function Script52()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -3219,60 +4094,6 @@ function Script49()
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script50()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script51()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script52()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -3334,16 +4155,17 @@ audio.play();
 
 function Script56()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -3351,16 +4173,17 @@ audio.play();
 
 function Script57()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -3368,16 +4191,17 @@ audio.play();
 
 function Script58()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -3388,7 +4212,7 @@ function Script59()
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
@@ -3487,6 +4311,57 @@ audio.play();
 
 function Script65()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script66()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script67()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script68()
+{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -3494,118 +4369,67 @@ audio.load();
 audio.play();
 }
 
-function Script66()
+function Script69()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script67()
+function Script70()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script68()
+function Script71()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script69()
+function Script72()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script70()
+function Script73()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script71()
+function Script74()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script72()
+function Script75()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script73()
+function Script76()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script74()
+function Script77()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
-}
-
-function Script75()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script76()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script77()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
 }
 
 function Script78()
@@ -3695,6 +4519,74 @@ audio.play();
 
 function Script83()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script84()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script85()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script86()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script87()
+{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -3702,153 +4594,82 @@ audio.load();
 audio.play();
 }
 
-function Script84()
+function Script88()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script85()
+function Script89()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script86()
+function Script90()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script87()
+function Script91()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script88()
+function Script92()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script89()
+function Script93()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script90()
+function Script94()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script91()
+function Script95()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script92()
+function Script96()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script93()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script94()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script95()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script96()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
 function Script97()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -3856,16 +4677,17 @@ audio.play();
 
 function Script98()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -3873,16 +4695,17 @@ audio.play();
 
 function Script99()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -3890,16 +4713,17 @@ audio.play();
 
 function Script100()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4009,6 +4833,74 @@ audio.play();
 
 function Script107()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script108()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script109()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script110()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script111()
+{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -4016,135 +4908,67 @@ audio.load();
 audio.play();
 }
 
-function Script108()
+function Script112()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script109()
+function Script113()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script110()
+function Script114()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script111()
+function Script115()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script112()
+function Script116()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script113()
+function Script117()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script114()
+function Script118()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script115()
+function Script119()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script116()
+function Script120()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
-}
-
-function Script117()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script118()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script119()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script120()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
 }
 
 function Script121()
@@ -4166,17 +4990,16 @@ audio.play();
 
 function Script122()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4184,17 +5007,16 @@ audio.play();
 
 function Script123()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4236,16 +5058,17 @@ audio.play();
 
 function Script126()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4287,6 +5110,93 @@ audio.play();
 
 function Script129()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script130()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script131()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script132()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script133()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script134()
+{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -4294,172 +5204,82 @@ audio.load();
 audio.play();
 }
 
-function Script130()
+function Script135()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script131()
+function Script136()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script132()
+function Script137()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script133()
+function Script138()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script134()
+function Script139()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script135()
+function Script140()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script136()
+function Script141()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script137()
+function Script142()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script138()
+function Script143()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script139()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script140()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script141()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script142()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script143()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
 function Script144()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4665,16 +5485,17 @@ audio.play();
 
 function Script156()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4682,16 +5503,17 @@ audio.play();
 
 function Script157()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4699,16 +5521,17 @@ audio.play();
 
 function Script158()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4716,16 +5539,17 @@ audio.play();
 
 function Script159()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4767,16 +5591,17 @@ audio.play();
 
 function Script162()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4784,16 +5609,17 @@ audio.play();
 
 function Script163()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4886,77 +5712,39 @@ audio.play();
 
 function Script169()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script170()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script171()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script172()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script173()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script174()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script175()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
-function Script176()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.6;
-}
-
-function Script177()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.7;
-}
-
-function Script178()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.8;
-}
-
-function Script179()
 {
   // tombol klin
 if (!document.getElementById('btaudiob')) {
@@ -4969,6 +5757,144 @@ if (!document.getElementById('btaudiob')) {
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script172()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script173()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script174()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script175()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script176()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script177()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script178()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script179()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4976,17 +5902,16 @@ audio.play();
 
 function Script180()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -4994,17 +5919,16 @@ audio.play();
 
 function Script181()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5012,17 +5936,16 @@ audio.play();
 
 function Script182()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5065,16 +5988,17 @@ audio.play();
 
 function Script185()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5082,16 +6006,17 @@ audio.play();
 
 function Script186()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5116,91 +6041,6 @@ audio.play();
 
 function Script188()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script189()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script190()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script191()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script192()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script193()
-{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -5208,70 +6048,70 @@ audio.load();
 audio.play();
 }
 
-function Script194()
+function Script189()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script195()
+function Script190()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script196()
+function Script191()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script197()
+function Script192()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script198()
+function Script193()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script199()
+function Script194()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script200()
+function Script195()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script201()
+function Script196()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script202()
+function Script197()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script203()
+function Script198()
 {
   // tombol klin
 if (!document.getElementById('btaudiob')) {
@@ -5284,6 +6124,96 @@ if (!document.getElementById('btaudiob')) {
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script199()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script200()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script201()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script202()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script203()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5291,17 +6221,17 @@ audio.play();
 
 function Script204()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5309,17 +6239,17 @@ audio.play();
 
 function Script205()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5327,17 +6257,17 @@ audio.play();
 
 function Script206()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5345,16 +6275,17 @@ audio.play();
 
 function Script207()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5380,16 +6311,17 @@ audio.play();
 
 function Script209()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5397,16 +6329,17 @@ audio.play();
 
 function Script210()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5414,16 +6347,17 @@ audio.play();
 
 function Script211()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5431,16 +6365,17 @@ audio.play();
 
 function Script212()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5448,16 +6383,17 @@ audio.play();
 
 function Script213()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5482,22 +6418,59 @@ audio.play();
 
 function Script215()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
 function Script216()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script217()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script218()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -5514,7 +6487,111 @@ audio.play();
 
 }
 
-function Script217()
+function Script219()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script220()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script221()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script222()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script223()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script224()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script225()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -5523,226 +6600,81 @@ audio.load();
 audio.play();
 }
 
-function Script218()
+function Script226()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script219()
+function Script227()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script220()
+function Script228()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script221()
+function Script229()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script222()
+function Script230()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script223()
+function Script231()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script224()
+function Script232()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script225()
+function Script233()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script226()
+function Script234()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script227()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script228()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script229()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script230()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script231()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script232()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script233()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script234()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
 function Script235()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5750,114 +6682,78 @@ audio.play();
 
 function Script236()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
+audio.src="dan.mp3";
+audio.load();
 audio.play();
-
 }
 
 function Script237()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.0;
 }
 
 function Script238()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.1;
 }
 
 function Script239()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.2;
 }
 
 function Script240()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.3;
 }
 
 function Script241()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.4;
 }
 
 function Script242()
 {
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script243()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script244()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script245()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script246()
+{
   // tombol klin
 if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
@@ -5869,76 +6765,6 @@ if (!document.getElementById('btaudiob')) {
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script243()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script244()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script245()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script246()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5946,16 +6772,17 @@ audio.play();
 
 function Script247()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5963,16 +6790,17 @@ audio.play();
 
 function Script248()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5980,16 +6808,17 @@ audio.play();
 
 function Script249()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -5997,16 +6826,17 @@ audio.play();
 
 function Script250()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6099,6 +6929,74 @@ audio.play();
 
 function Script256()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script257()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script258()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script259()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script260()
+{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -6106,152 +7004,82 @@ audio.load();
 audio.play();
 }
 
-function Script257()
+function Script261()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script258()
+function Script262()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script259()
+function Script263()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script260()
+function Script264()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script261()
+function Script265()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script262()
+function Script266()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script263()
+function Script267()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script264()
+function Script268()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script265()
+function Script269()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script266()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script267()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script268()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script269()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
 function Script270()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6259,16 +7087,17 @@ audio.play();
 
 function Script271()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6276,16 +7105,17 @@ audio.play();
 
 function Script272()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6293,16 +7123,17 @@ audio.play();
 
 function Script273()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6327,16 +7158,17 @@ audio.play();
 
 function Script275()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6395,6 +7227,91 @@ audio.play();
 
 function Script279()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script280()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script281()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script282()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script283()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script284()
+{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -6402,170 +7319,82 @@ audio.load();
 audio.play();
 }
 
-function Script280()
+function Script285()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script281()
+function Script286()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script282()
+function Script287()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script283()
+function Script288()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script284()
+function Script289()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script285()
+function Script290()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script286()
+function Script291()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script287()
+function Script292()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script288()
+function Script293()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script289()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script290()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script291()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script292()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script293()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
 function Script294()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6573,16 +7402,17 @@ audio.play();
 
 function Script295()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6590,16 +7420,17 @@ audio.play();
 
 function Script296()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6607,16 +7438,17 @@ audio.play();
 
 function Script297()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6624,16 +7456,17 @@ audio.play();
 
 function Script298()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6641,16 +7474,17 @@ audio.play();
 
 function Script299()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6658,16 +7492,17 @@ audio.play();
 
 function Script300()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6675,16 +7510,17 @@ audio.play();
 
 function Script301()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6692,16 +7528,17 @@ audio.play();
 
 function Script302()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6709,6 +7546,132 @@ audio.play();
 
 function Script303()
 {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script304()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script305()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script306()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script307()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script308()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script309()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script310()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -6724,76 +7687,57 @@ audio.play();
 
 }
 
-function Script304()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script305()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script306()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script307()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script308()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script309()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script310()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
 function Script311()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script312()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script313()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script314()
@@ -6866,17 +7810,16 @@ audio.play();
 
 function Script318()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6884,17 +7827,16 @@ audio.play();
 
 function Script319()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -6953,125 +7895,6 @@ audio.play();
 
 function Script323()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script324()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script325()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script326()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script327()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script328()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script329()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script330()
-{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -7079,88 +7902,87 @@ audio.load();
 audio.play();
 }
 
-function Script331()
+function Script324()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script332()
+function Script325()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script333()
+function Script326()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script334()
+function Script327()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script335()
+function Script328()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script336()
+function Script329()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script337()
+function Script330()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script338()
+function Script331()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script339()
+function Script332()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script340()
+function Script333()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
-function Script341()
+function Script334()
 {
   // tombol blub
 if (!document.getElementById('btaudioc')) {
@@ -7173,6 +7995,127 @@ if (!document.getElementById('btaudioc')) {
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script335()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script336()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script337()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script338()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script339()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script340()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script341()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -7197,17 +8140,16 @@ audio.play();
 
 function Script343()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -7215,17 +8157,16 @@ audio.play();
 
 function Script344()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -7233,176 +8174,22 @@ audio.play();
 
 function Script345()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
 function Script346()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script347()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script348()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script349()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script350()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script351()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script352()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script353()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script354()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script355()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -7411,67 +8198,224 @@ audio.load();
 audio.play();
 }
 
-function Script356()
+function Script347()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script357()
+function Script348()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script358()
+function Script349()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script359()
+function Script350()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script360()
+function Script351()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script361()
+function Script352()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script362()
+function Script353()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script363()
+function Script354()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script364()
+function Script355()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
+}
+
+function Script356()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script357()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script358()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script359()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script360()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script361()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script362()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script363()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script364()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script365()
@@ -7527,17 +8471,16 @@ audio.play();
 
 function Script368()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -7545,17 +8488,16 @@ audio.play();
 
 function Script369()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -7563,17 +8505,16 @@ audio.play();
 
 function Script370()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -7581,177 +8522,74 @@ audio.play();
 
 function Script371()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
+audio.src="dan.mp3";
+audio.load();
 audio.play();
-
 }
 
 function Script372()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.0;
 }
 
 function Script373()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.1;
 }
 
 function Script374()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.2;
 }
 
 function Script375()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.3;
 }
 
 function Script376()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.4;
 }
 
 function Script377()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.5;
 }
 
 function Script378()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.6;
 }
 
 function Script379()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.7;
 }
 
 function Script380()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.8;
 }
 
 function Script381()
@@ -7807,6 +8645,41 @@ audio.play();
 
 function Script384()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script385()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script386()
+{
   // tombol blub
 if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
@@ -7823,7 +8696,7 @@ audio.play();
 
 }
 
-function Script385()
+function Script387()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -7840,7 +8713,160 @@ audio.play();
 
 }
 
-function Script386()
+function Script388()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script389()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script390()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script391()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script392()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script393()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script394()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script395()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script396()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script397()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -7849,275 +8875,82 @@ audio.load();
 audio.play();
 }
 
-function Script387()
+function Script398()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script388()
+function Script399()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script389()
+function Script400()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script390()
+function Script401()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script391()
+function Script402()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script392()
+function Script403()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script393()
+function Script404()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script394()
+function Script405()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script395()
+function Script406()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script396()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script397()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script398()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script399()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script400()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script401()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script402()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script403()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script404()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script405()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script406()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
 function Script407()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8125,16 +8958,17 @@ audio.play();
 
 function Script408()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8159,22 +8993,59 @@ audio.play();
 
 function Script410()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
 function Script411()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script412()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script413()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -8191,7 +9062,143 @@ audio.play();
 
 }
 
-function Script412()
+function Script414()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script415()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script416()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script417()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script418()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script419()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script420()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script421()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script422()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -8200,242 +9207,67 @@ audio.load();
 audio.play();
 }
 
-function Script413()
+function Script423()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script414()
+function Script424()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script415()
+function Script425()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script416()
+function Script426()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script417()
+function Script427()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script418()
+function Script428()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script419()
+function Script429()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script420()
+function Script430()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script421()
+function Script431()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
-}
-
-function Script422()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script423()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script424()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script425()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script426()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script427()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script428()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script429()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script430()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script431()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
 }
 
 function Script432()
@@ -8491,16 +9323,17 @@ audio.play();
 
 function Script435()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8508,16 +9341,17 @@ audio.play();
 
 function Script436()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8579,6 +9413,60 @@ audio.play();
 
 function Script440()
 {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script441()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script442()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script443()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -8594,76 +9482,124 @@ audio.play();
 
 }
 
-function Script441()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script442()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script443()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
 function Script444()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.2;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script445()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script446()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script447()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script448()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script449()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script450()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script451()
@@ -8702,17 +9638,16 @@ audio.play();
 
 function Script453()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8720,17 +9655,16 @@ audio.play();
 
 function Script454()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8738,60 +9672,78 @@ audio.play();
 
 function Script455()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
+audio.src="dan.mp3";
+audio.load();
 audio.play();
-
 }
 
 function Script456()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.0;
 }
 
 function Script457()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.1;
 }
 
 function Script458()
 {
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script459()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script460()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script461()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script462()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script463()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script464()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script465()
+{
   // tombol blub
 if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
@@ -8803,125 +9755,6 @@ if (!document.getElementById('btaudioc')) {
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script459()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script460()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script461()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script462()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script463()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script464()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script465()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8929,16 +9762,17 @@ audio.play();
 
 function Script466()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -8982,6 +9816,78 @@ audio.play();
 
 function Script469()
 {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script470()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script471()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script472()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script473()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -8997,79 +9903,7 @@ audio.play();
 
 }
 
-function Script470()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script471()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script472()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script473()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
 function Script474()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script475()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script476()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
-function Script477()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.6;
-}
-
-function Script478()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.7;
-}
-
-function Script479()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.8;
-}
-
-function Script480()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -9081,6 +9915,109 @@ function Script480()
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script475()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script476()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script477()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script478()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script479()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script480()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9105,17 +10042,16 @@ audio.play();
 
 function Script482()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9123,266 +10059,22 @@ audio.play();
 
 function Script483()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
 function Script484()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script485()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script486()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script487()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script488()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script489()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script490()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script491()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script492()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script493()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script494()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script495()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script496()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script497()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script498()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -9391,70 +10083,160 @@ audio.load();
 audio.play();
 }
 
-function Script499()
+function Script485()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script500()
+function Script486()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script501()
+function Script487()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script502()
+function Script488()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script503()
+function Script489()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script504()
+function Script490()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script505()
+function Script491()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script506()
+function Script492()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script507()
+function Script493()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script508()
+function Script494()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script495()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script496()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script497()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script498()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script499()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -9466,6 +10248,162 @@ function Script508()
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script500()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script501()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script502()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script503()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script504()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script505()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script506()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script507()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script508()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9490,17 +10428,16 @@ audio.play();
 
 function Script510()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9508,17 +10445,16 @@ audio.play();
 
 function Script511()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9526,17 +10462,16 @@ audio.play();
 
 function Script512()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9544,178 +10479,74 @@ audio.play();
 
 function Script513()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
+audio.src="dan.mp3";
+audio.load();
 audio.play();
-
 }
 
 function Script514()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.0;
 }
 
 function Script515()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.1;
 }
 
 function Script516()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.2;
 }
 
 function Script517()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.3;
 }
 
 function Script518()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.4;
 }
 
 function Script519()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.5;
 }
 
 function Script520()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.6;
 }
 
 function Script521()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.7;
 }
 
 function Script522()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.8;
 }
 
 function Script523()
@@ -9754,16 +10585,17 @@ audio.play();
 
 function Script525()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9771,16 +10603,17 @@ audio.play();
 
 function Script526()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9806,16 +10639,17 @@ audio.play();
 
 function Script528()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9823,77 +10657,22 @@ audio.play();
 
 function Script529()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script530()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script531()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script532()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script533()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script534()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script535()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
-function Script536()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.6;
-}
-
-function Script537()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.7;
-}
-
-function Script538()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.8;
-}
-
-function Script539()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -9910,7 +10689,7 @@ audio.play();
 
 }
 
-function Script540()
+function Script531()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -9922,6 +10701,163 @@ function Script540()
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script532()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script533()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script534()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script535()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script536()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script537()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script538()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script539()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script540()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -9963,174 +10899,74 @@ audio.play();
 
 function Script543()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
+audio.src="dan.mp3";
+audio.load();
 audio.play();
-
 }
 
 function Script544()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.0;
 }
 
 function Script545()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.1;
 }
 
 function Script546()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.2;
 }
 
 function Script547()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.3;
 }
 
 function Script548()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.4;
 }
 
 function Script549()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.5;
 }
 
 function Script550()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.6;
 }
 
 function Script551()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.7;
 }
 
 function Script552()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.8;
 }
 
 function Script553()
@@ -10152,74 +10988,176 @@ audio.play();
 
 function Script554()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script555()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script556()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.1;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script557()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.2;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script558()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script559()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script560()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script561()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script562()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script563()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script564()
@@ -10275,16 +11213,17 @@ audio.play();
 
 function Script567()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10310,17 +11249,17 @@ audio.play();
 
 function Script569()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10346,16 +11285,17 @@ audio.play();
 
 function Script571()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10397,108 +11337,6 @@ audio.play();
 
 function Script574()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script575()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script576()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script577()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script578()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script579()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script580()
-{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -10506,67 +11344,173 @@ audio.load();
 audio.play();
 }
 
-function Script581()
+function Script575()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script582()
+function Script576()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script583()
+function Script577()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script584()
+function Script578()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script585()
+function Script579()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script586()
+function Script580()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script587()
+function Script581()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script588()
+function Script582()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script589()
+function Script583()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
+}
+
+function Script584()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script585()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script586()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script587()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script588()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script589()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script590()
@@ -10707,16 +11651,17 @@ audio.play();
 
 function Script598()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10724,16 +11669,17 @@ audio.play();
 
 function Script599()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10741,16 +11687,17 @@ audio.play();
 
 function Script600()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10758,22 +11705,59 @@ audio.play();
 
 function Script601()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
 function Script602()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script603()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script604()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -10790,7 +11774,24 @@ audio.play();
 
 }
 
-function Script603()
+function Script605()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script606()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -10799,118 +11800,67 @@ audio.load();
 audio.play();
 }
 
-function Script604()
+function Script607()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script605()
+function Script608()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script606()
+function Script609()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script607()
+function Script610()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script608()
+function Script611()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script609()
+function Script612()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script610()
+function Script613()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script611()
+function Script614()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script612()
+function Script615()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
-}
-
-function Script613()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script614()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script615()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
 }
 
 function Script616()
@@ -10949,16 +11899,17 @@ audio.play();
 
 function Script618()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10966,16 +11917,17 @@ audio.play();
 
 function Script619()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -10983,16 +11935,17 @@ audio.play();
 
 function Script620()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -11000,16 +11953,17 @@ audio.play();
 
 function Script621()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -11085,149 +12039,22 @@ audio.play();
 
 function Script626()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script627()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script628()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script629()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script630()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script631()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script632()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
-function Script633()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.6;
-}
-
-function Script634()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.7;
-}
-
-function Script635()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.8;
-}
-
-function Script636()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script637()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script638()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script639()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script640()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -11244,7 +12071,41 @@ audio.play();
 
 }
 
-function Script641()
+function Script628()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script629()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script630()
 {
   // tombol blub
 if (!document.getElementById('btaudioc')) {
@@ -11262,7 +12123,79 @@ audio.play();
 
 }
 
-function Script642()
+function Script631()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script632()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script633()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script634()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script635()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -11277,74 +12210,95 @@ var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
+}
+
+function Script636()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script637()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script638()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script639()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script640()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script641()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script642()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
 }
 
 function Script643()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.5;
 }
 
 function Script644()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.6;
 }
 
 function Script645()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.7;
 }
 
 function Script646()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
+audio.volume = 0.8;
 }
 
 function Script647()
@@ -11383,6 +12337,78 @@ audio.play();
 
 function Script649()
 {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script650()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script651()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script652()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script653()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -11398,76 +12424,106 @@ audio.play();
 
 }
 
-function Script650()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script651()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script652()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script653()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
 function Script654()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script655()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script656()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script657()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script658()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script659()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script660()
@@ -11489,16 +12545,17 @@ audio.play();
 
 function Script661()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -11506,16 +12563,17 @@ audio.play();
 
 function Script662()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -11523,22 +12581,59 @@ audio.play();
 
 function Script663()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
 function Script664()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script665()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script666()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -11555,7 +12650,24 @@ audio.play();
 
 }
 
-function Script665()
+function Script667()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script668()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -11564,118 +12676,67 @@ audio.load();
 audio.play();
 }
 
-function Script666()
+function Script669()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script667()
+function Script670()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script668()
+function Script671()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script669()
+function Script672()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script670()
+function Script673()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script671()
+function Script674()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script672()
+function Script675()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script673()
+function Script676()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script674()
+function Script677()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
-}
-
-function Script675()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script676()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script677()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
 }
 
 function Script678()
@@ -11714,74 +12775,172 @@ audio.play();
 
 function Script680()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script681()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script682()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.1;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script683()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.2;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script684()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script685()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script686()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script687()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script688()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script689()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script690()
@@ -11803,16 +12962,17 @@ audio.play();
 
 function Script691()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudiob');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -11820,16 +12980,17 @@ audio.play();
 
 function Script692()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -11837,6 +12998,96 @@ audio.play();
 
 function Script693()
 {
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script694()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script695()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script696()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script697()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script698()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -11852,76 +13103,89 @@ audio.play();
 
 }
 
-function Script694()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script695()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script696()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script697()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script698()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
 function Script699()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script700()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script701()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script702()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script703()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script704()
@@ -11994,78 +13258,6 @@ audio.play();
 
 function Script708()
 {
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script709()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script710()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script711()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script712()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script713()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script714()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
-function Script715()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.6;
-}
-
-function Script716()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.7;
-}
-
-function Script717()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.8;
-}
-
-function Script718()
-{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -12079,6 +13271,78 @@ var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
+}
+
+function Script709()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script710()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script711()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script712()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script713()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script714()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script715()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script716()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script717()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script718()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
 }
 
 function Script719()
@@ -12117,6 +13381,132 @@ audio.play();
 
 function Script721()
 {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script722()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script723()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script724()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script725()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script726()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script727()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script728()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -12132,76 +13522,55 @@ audio.play();
 
 }
 
-function Script722()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script723()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script724()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script725()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script726()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script727()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script728()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
 function Script729()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script730()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script731()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script732()
@@ -12274,6 +13643,57 @@ audio.play();
 
 function Script736()
 {
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script737()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script738()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script739()
+{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -12281,118 +13701,67 @@ audio.load();
 audio.play();
 }
 
-function Script737()
+function Script740()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script738()
+function Script741()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script739()
+function Script742()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script740()
+function Script743()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script741()
+function Script744()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script742()
+function Script745()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script743()
+function Script746()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script744()
+function Script747()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script745()
+function Script748()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
-}
-
-function Script746()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script747()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script748()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
 }
 
 function Script749()
@@ -12414,74 +13783,181 @@ audio.play();
 
 function Script750()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script751()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script752()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.1;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script753()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.2;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script754()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script755()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script756()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script757()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script758()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script759()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script760()
@@ -12554,217 +14030,214 @@ audio.play();
 
 function Script764()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script765()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script766()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.1;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script767()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.2;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script768()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script769()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script770()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script771()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script772()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.7;
+audio.src="dan.mp3";
+audio.load();
+audio.play();
 }
 
 function Script773()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.8;
-}
-
-function Script774()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script775()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script776()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script777()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script778()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script779()
-{
-  var audio = document.getElementById('bgSongku');
-
 audio.volume = 0.0;
 }
 
-function Script780()
+function Script774()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script781()
+function Script775()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script782()
+function Script776()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script783()
+function Script777()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script784()
+function Script778()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script785()
+function Script779()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script786()
+function Script780()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script787()
+function Script781()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script788()
+function Script782()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -12776,6 +14249,113 @@ function Script788()
 
 // Ambil elemen audio dan mainkan
 var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script783()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script784()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script785()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script786()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script787()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script788()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -12783,16 +14363,17 @@ audio.play();
 
 function Script789()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -12834,74 +14415,174 @@ audio.play();
 
 function Script792()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script793()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script794()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.1;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script795()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.2;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script796()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script797()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script798()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script799()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script800()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.7;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script801()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.8;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script802()
@@ -12923,57 +14604,6 @@ audio.play();
 
 function Script803()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script804()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script805()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script806()
-{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -12981,67 +14611,118 @@ audio.load();
 audio.play();
 }
 
-function Script807()
+function Script804()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script808()
+function Script805()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script809()
+function Script806()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script810()
+function Script807()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script811()
+function Script808()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script812()
+function Script809()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script813()
+function Script810()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script814()
+function Script811()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script815()
+function Script812()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
+}
+
+function Script813()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script814()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script815()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script816()
@@ -13080,16 +14761,17 @@ audio.play();
 
 function Script818()
 {
-  if (!document.getElementById('btaudio')) {
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
+var audio = document.getElementById('btaudioc');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13114,231 +14796,333 @@ audio.play();
 
 function Script820()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.src="dan.mp3";
-audio.load();
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
 audio.play();
+
 }
 
 function Script821()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.0;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script822()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.1;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script823()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.2;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script824()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.3;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script825()
 {
-  var audio = document.getElementById('bgSongku');
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.4;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script826()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.5;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script827()
 {
-  var audio = document.getElementById('bgSongku');
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
 
-audio.volume = 0.6;
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script828()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.7;
+audio.src="dan.mp3";
+audio.load();
+audio.play();
 }
 
 function Script829()
 {
   var audio = document.getElementById('bgSongku');
 
-audio.volume = 0.8;
-}
-
-function Script830()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script831()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script832()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script833()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script834()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script835()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script836()
-{
-  var audio = document.getElementById('bgSongku');
-
 audio.volume = 0.0;
 }
 
-function Script837()
+function Script830()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script838()
+function Script831()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script839()
+function Script832()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script840()
+function Script833()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script841()
+function Script834()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script842()
+function Script835()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script843()
+function Script836()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script844()
+function Script837()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
+}
+
+function Script838()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script839()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script840()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script841()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script842()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script843()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script844()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script845()
@@ -13445,17 +15229,16 @@ audio.play();
 
 function Script851()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13463,17 +15246,16 @@ audio.play();
 
 function Script852()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13481,110 +15263,22 @@ audio.play();
 
 function Script853()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
 }
 
 function Script854()
-{
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script855()
-{
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script856()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script857()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script858()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script859()
 {
   var audio = document.getElementById('bgSongku');
 
@@ -13593,82 +15287,166 @@ audio.load();
 audio.play();
 }
 
-function Script860()
+function Script855()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script861()
+function Script856()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script862()
+function Script857()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script863()
+function Script858()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script864()
+function Script859()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script865()
+function Script860()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script866()
+function Script861()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script867()
+function Script862()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script868()
+function Script863()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
 }
 
-function Script869()
+function Script864()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script865()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script866()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script867()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script868()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script869()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13676,17 +15454,16 @@ audio.play();
 
 function Script870()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13694,17 +15471,16 @@ audio.play();
 
 function Script871()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13712,17 +15488,16 @@ audio.play();
 
 function Script872()
 {
-  // tombol klin
-if (!document.getElementById('btaudiob')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudiob';
-    audio.src = "klin.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudiob');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13747,17 +15522,16 @@ audio.play();
 
 function Script874()
 {
-  // tombol blub
-if (!document.getElementById('btaudioc')) {
+  if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
-    audio.id = 'btaudioc';
-    audio.src = "blub.mp3"; // Path ke file audio
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
     audio.style.display = "none"; // Sembunyikan elemen audio
     document.body.appendChild(audio);
 }
 
 // Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudioc');
+var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
@@ -13799,6 +15573,78 @@ audio.play();
 
 function Script877()
 {
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script878()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script879()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script880()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script881()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script882()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script883()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script884()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script885()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script886()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script887()
+{
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
     audio.id = 'btaudio';
@@ -13812,78 +15658,6 @@ var audio = document.getElementById('btaudio');
 audio.volume = 1.0; // Volume normal (100%)
 audio.play();
 
-}
-
-function Script878()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.src="dan.mp3";
-audio.load();
-audio.play();
-}
-
-function Script879()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.0;
-}
-
-function Script880()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.1;
-}
-
-function Script881()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.2;
-}
-
-function Script882()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.3;
-}
-
-function Script883()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.4;
-}
-
-function Script884()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.5;
-}
-
-function Script885()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.6;
-}
-
-function Script886()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.7;
-}
-
-function Script887()
-{
-  var audio = document.getElementById('bgSongku');
-
-audio.volume = 0.8;
 }
 
 function Script888()
@@ -14092,142 +15866,6 @@ audio.play();
 
 function Script900()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script901()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script902()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script903()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script904()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script905()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script906()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script907()
-{
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
-
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
-audio.play();
-
-}
-
-function Script908()
-{
   var audio = document.getElementById('bgSongku');
 
 audio.src="dan.mp3";
@@ -14235,67 +15873,208 @@ audio.load();
 audio.play();
 }
 
-function Script909()
+function Script901()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.0;
 }
 
-function Script910()
+function Script902()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.1;
 }
 
-function Script911()
+function Script903()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.2;
 }
 
-function Script912()
+function Script904()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.3;
 }
 
-function Script913()
+function Script905()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.4;
 }
 
-function Script914()
+function Script906()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.5;
 }
 
-function Script915()
+function Script907()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.6;
 }
 
-function Script916()
+function Script908()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.7;
 }
 
-function Script917()
+function Script909()
 {
   var audio = document.getElementById('bgSongku');
 
 audio.volume = 0.8;
+}
+
+function Script910()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script911()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script912()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script913()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script914()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script915()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script916()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script917()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
 }
 
 function Script918()
@@ -14402,22 +16181,77 @@ audio.play();
 
 function Script924()
 {
-  if (!document.getElementById('btaudio')) {
-    var audio = document.createElement('audio');
-    audio.id = 'btaudio';
-    audio.src = "klek.mp3"; // Path ke file audio
-    audio.style.display = "none"; // Sembunyikan elemen audio
-    document.body.appendChild(audio);
-}
+  var audio = document.getElementById('bgSongku');
 
-// Ambil elemen audio dan mainkan
-var audio = document.getElementById('btaudio');
-audio.volume = 1.0; // Volume normal (100%)
+audio.src="dan.mp3";
+audio.load();
 audio.play();
-
 }
 
 function Script925()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script926()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script927()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script928()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script929()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script930()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script931()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script932()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script933()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script934()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
@@ -14434,7 +16268,2954 @@ audio.play();
 
 }
 
-function Script926()
+function Script935()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script936()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script937()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script938()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script939()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script940()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script941()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script942()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script943()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script944()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script945()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script946()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script947()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script948()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script949()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script950()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script951()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script952()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script953()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script954()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script955()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script956()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script957()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script958()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script959()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script960()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script961()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script962()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script963()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script964()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script965()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script966()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script967()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script968()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script969()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script970()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script971()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script972()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script973()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script974()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script975()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script976()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script977()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script978()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script979()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script980()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script981()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script982()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script983()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script984()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script985()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script986()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script987()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script988()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script989()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script990()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script991()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script992()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script993()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script994()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script995()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script996()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script997()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script998()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script999()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1000()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1001()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1002()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1003()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1004()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1005()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1006()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1007()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1008()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1009()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1010()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1011()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1012()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1013()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1014()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1015()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1016()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1017()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1018()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1019()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1020()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1021()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1022()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1023()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1024()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1025()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1026()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1027()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1028()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1029()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1030()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1031()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1032()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1033()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1034()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1035()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1036()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1037()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1038()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1039()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1040()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1041()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1042()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1043()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1044()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1045()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1046()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1047()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1048()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1049()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1050()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1051()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1052()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1053()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1054()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1055()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1056()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1057()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1058()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1059()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1060()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1061()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1062()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1063()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1064()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1065()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1066()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1067()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1068()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1069()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1070()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1071()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1072()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1073()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1074()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1075()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1076()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1077()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1078()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1079()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1080()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1081()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1082()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1083()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1084()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1085()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1086()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1087()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1088()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1089()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1090()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1091()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1092()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1093()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1094()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1095()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1096()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1097()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1098()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1099()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1100()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1101()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1102()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1103()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1104()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1105()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1106()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1107()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1108()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1109()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1110()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1111()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1112()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1113()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1114()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1115()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1116()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1117()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1118()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1119()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1120()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1121()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1122()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1123()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1124()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1125()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1126()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1127()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1128()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1129()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1130()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1131()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1132()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1133()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1134()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1135()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1136()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1137()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1138()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1139()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1140()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1141()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1142()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1143()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1144()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1145()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1146()
+{
+  // tombol klin
+if (!document.getElementById('btaudiob')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudiob';
+    audio.src = "klin.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudiob');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1147()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1148()
+{
+  // tombol blub
+if (!document.getElementById('btaudioc')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudioc';
+    audio.src = "blub.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudioc');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1149()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1150()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1151()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1152()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1153()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1154()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1155()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1156()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1157()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1158()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1159()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1160()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1161()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1162()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1163()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1164()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1165()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1166()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1167()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1168()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1169()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1170()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1171()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1172()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1173()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1174()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1175()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1176()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1177()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1178()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1179()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1180()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1181()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1182()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.src="dan.mp3";
+audio.load();
+audio.play();
+}
+
+function Script1183()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.0;
+}
+
+function Script1184()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.1;
+}
+
+function Script1185()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.2;
+}
+
+function Script1186()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.3;
+}
+
+function Script1187()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.4;
+}
+
+function Script1188()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.5;
+}
+
+function Script1189()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.6;
+}
+
+function Script1190()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.7;
+}
+
+function Script1191()
+{
+  var audio = document.getElementById('bgSongku');
+
+audio.volume = 0.8;
+}
+
+function Script1192()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1193()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1194()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1195()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1196()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1197()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1198()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1199()
+{
+  if (!document.getElementById('btaudio')) {
+    var audio = document.createElement('audio');
+    audio.id = 'btaudio';
+    audio.src = "klek.mp3"; // Path ke file audio
+    audio.style.display = "none"; // Sembunyikan elemen audio
+    document.body.appendChild(audio);
+}
+
+// Ambil elemen audio dan mainkan
+var audio = document.getElementById('btaudio');
+audio.volume = 1.0; // Volume normal (100%)
+audio.play();
+
+}
+
+function Script1200()
 {
   if (!document.getElementById('btaudio')) {
     var audio = document.createElement('audio');
